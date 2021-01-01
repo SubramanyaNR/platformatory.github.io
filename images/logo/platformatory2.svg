@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3696px" height="609px" viewBox="0 0 3696 609" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(48.000000, 0.000000)">
+            <circle id="Oval" fill="#011F4B" cx="247" cy="306" r="247"></circle>
+            <g id="F" transform="translate(114.000000, 32.000000)" fill="#005B96">
+                <text font-family="BordDemo, Bord Demo" font-size="400" font-weight="normal">
+                    <tspan x="0" y="409">F</tspan>
+                </text>
+                <rect id="Rectangle" x="30" y="364" width="54.3" height="110"></rect>
+            </g>
+            <polygon id="Path" fill="#011F4B" points="140.546875 502.445312 430.167969 155.289062 448 344.921875 202.996094 528.058594"></polygon>
+            <text id="platformatory" font-family="Quango" font-size="450" font-weight="bold" fill="#011F4B">
+                <tspan x="577" y="380">platformatory</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
