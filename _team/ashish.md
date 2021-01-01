@@ -2,9 +2,10 @@
 title: "Ashish Goyal"
 date: 2018-11-19T10:47:58+10:00
 draft: false
+promoted: true
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Co Founder"
-linkedinurl: ""
+linkedinurl: "https://www.linkedin.com/in/ashish-srijan/"
 weight: 1
 layout: team
 ---

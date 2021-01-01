@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Platform Engineer"
-linkedinurl: ""
+linkedinurl: "https://www.linkedin.com/in/adheip-singh-4a4a74133/"
 weight: 4
 layout: team
 ---
