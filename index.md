@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Platformatory
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Platformatory home page.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Platformatory: Cloud native architecture & engineering studio
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Platformatory is a niche technology consulting collective. We help enterprises accelerate realization of their digital platform & operations strategy. We also work as a long haul partner towards building a modern engineering CoEs & chief technology office with the broad charter of IT/Tech landscape modernization.

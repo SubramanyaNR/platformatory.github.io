@@ -1,12 +1,13 @@
 ---
-title: "Accounting"
+title: "Siebel Modernization"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 layout: service
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+K8S is the emergent unified abstraction to the cloud. Our experts enable your cloud journey into Kubernetes, one workload at a time.
+
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

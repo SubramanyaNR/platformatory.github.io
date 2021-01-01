@@ -1,9 +1,9 @@
 ---
-title: "Bill McDonald"
+title: "Ashish Goyal"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
+jobtitle: "Co Founder"
 linkedinurl: ""
 weight: 7
 layout: team
