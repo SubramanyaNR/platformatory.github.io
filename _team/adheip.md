@@ -5,7 +5,7 @@ draft: false
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Platform Engineer"
 linkedinurl: ""
-weight: 7
+weight: 4
 layout: team
 ---
 

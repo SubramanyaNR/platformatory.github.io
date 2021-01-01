@@ -5,7 +5,7 @@ draft: false
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Co Founder"
 linkedinurl: ""
-weight: 7
+weight: 1
 layout: team
 ---
 
