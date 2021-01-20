@@ -4,10 +4,8 @@ date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
-
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Platformatory Labs was founded by people with a passion for technology and proven 
+track record of helping clients succeed. We are a team  of small , nimble and highely focused ang
 
 ## Ne verba patulosque numen vix libet
 
