@@ -12,7 +12,8 @@ Platformatory has incorporated entities in India and US. We plan to expand to ot
 # Asia Pacific and Middle East
 
 Platformatory Labs Private Limited <br>
-Indira Nagar, Bengaluru 560038 <br>
+NGEF Lane,Indira Nagar<br>
+Bengaluru 560038 <br>
 phone:+91 (80) 2504 3126
 
 # Americas and Europe
