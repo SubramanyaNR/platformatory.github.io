@@ -4,8 +4,8 @@ date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
-Platformatory Labs was founded by people with a passion for technology and proven 
-track record of helping clients succeed. We are a team  of small , nimble and highely focused ang
+Platformatory Labs was founded by a team with a passion for technology and proven 
+track record of helping clients succeed. We pride ourselves on being nimble and responsive to  their business needs.
 
 ## Ne verba patulosque numen vix libet
 
