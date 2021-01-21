@@ -6,7 +6,14 @@ weight: 5
 layout: service
 ---
 
-The Platform is the backbone of any digital ecosystem. Any organization hoping to build its own digital ecosystems must start by building the right platform to support its business strategy.
+The Platform is the backbone of any digital ecosystem. Any organization hoping to build its own digital ecosystems must start by building the right platform to support its business strategy. Our services include
+
+1. Hybrid Cloud Foundation
+2. Events, APIs & Developer Experience
+3. Modern Data Architecture
+4. DevSecOps & Governance
+
+
 
 ## The Key Components of aPlatform
 
@@ -18,19 +25,19 @@ Any Modern Platform consists of 3 key components
 
 We adopt a 4 phase approach to establish the optimum selection of core components and a suitable architecture for our clients.
 
-## Platform Services
+## Platform Maturity
 
 Depending on the client maturity, platform initiatives can be divided into 4 phases.
 
-- Platform Foundation
+- Platform Foundation -
 We offer Fast start  accelerators with security & best practices baked in. 
 
-- Platform Adoption
+- Platform Adoption -
 We enable Long running programs for app/product teams with target technology
 
-- Plattform Operations
+- Plattform Operations -
 We offer Reliability Engineering Services
-- Product Engineering
+- Product Engineering -
 We help build modernized data & api products with software defined delivery
 
 
