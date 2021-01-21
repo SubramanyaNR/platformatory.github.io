@@ -2,14 +2,8 @@ main:
   - name: "Consulting"
     url: "/consulting/"
     weight: 0
-  - name: "Products"
-    url: "/products/"
-    weight: 1    
   - name: "Services"
     url: "/services/"
-    weight: 2
-  - name: "Solutions"
-    url: "/solutions/"
     weight: 2
   - name: "About"
     url: "/about/"
