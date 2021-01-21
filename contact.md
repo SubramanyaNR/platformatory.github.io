@@ -6,7 +6,7 @@ bodyClass: page-contact
 
 Platformatory has incorporated entities in India and US. We plan to expand to other geographies shortly.
 
-<img src="images\locations.png">
+<img src=".\images\locations.png">
 
 
 # Asia Pacific and Middle East
