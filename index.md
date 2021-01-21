@@ -2,7 +2,7 @@
 title: Platformatory
 layout: home
 description: Platformatory home page.
-intro_image: "images/cloud-native-design.jpeg"
+intro_image: "images/illustrations/pexels-albin-berlin-906982.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---

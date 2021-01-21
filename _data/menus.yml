@@ -1,10 +1,10 @@
 main:
   - name: "Consulting"
     url: "/consulting/"
-    weight: 0  
+    weight: 0
   - name: "Services"
     url: "/services/"
-    weight: 1
+    weight: 2
   - name: "About"
     url: "/about/"
     weight: 3

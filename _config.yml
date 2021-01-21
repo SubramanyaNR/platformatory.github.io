@@ -7,18 +7,18 @@ google_analytics_id: "G-PWW2W71JX1"
 homepage:
   show_call_box: true
 logo:
-  mobile: "images/logo/platformatory2.svg"
-  desktop: "images/logo/platformatory2.svg"
+  mobile: "images/logo/platformatory300.svg"
+  desktop: "images/logo/platformatory300.svg"
   desktop_height: "36px"
 footer:
   copyright_text: '&copy; All rights reserved 2020. Platformatory Labs'
 
 seo:
-  meta_og_title: "Platformatory Labs"
+  meta_og_title: "Platformatory"
   meta_og_type: "website"
   meta_og_url: "http://platformatory.io"
   meta_og_image: "http://platformatory.io/images/logo/platformatory2.svg"
-  meta_og_description: "Platformatory Labs pioneers in Enterprise grade modernization & platform ecosystem creation initiatives"
+  meta_og_description: "Cloud native engineering studio"
   meta_twitter_card: "summary"
   meta_twitter_site: "@platformatory"
   meta_twitter_creator: "@platformatory"
@@ -40,3 +40,4 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-menus
