@@ -8,7 +8,7 @@ Platformatory Labs was founded by a team with a passion for technology and prove
 track record of helping clients succeed. We pride ourselves on being nimble and responsive to  their business needs.
 
 ## What do we do?
-
+ <img src="..\images\cto.png">
 We help CTO and CIO offices navigate the cloud native landscape & deliver on 3 interconnected enterprise transformation themes: 
 
 1. Digital Platform → Cloud native backbone
@@ -16,7 +16,7 @@ We help CTO and CIO offices navigate the cloud native landscape & deliver on 3 i
 3. Digital Ecosystem → Developer Experience, Data & API Economy
 
 ## Why work with us?
-
+ <img src="..\images\atob.png">
 Our team brings tangible value to every engagement because of the these factors
 
 - High pedigree technology consulting:  Liaison with C-level leadership
