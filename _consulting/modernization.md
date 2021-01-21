@@ -7,7 +7,7 @@ layout: service
 ---
 
 Gartner says this in a recent report. - "Moderninzation should be Business-Centric, Continuous and Multiplatform."
-We witnessed the fact the 2019 was the year hybrid cloud won clearly. It is now supported by the 3 major cloud providers. Our consulting potfolio consists of
+We witnessed the fact the 2019 was the year hybrid cloud won clearly. It is now supported by the 3 major cloud providers. Our consulting portfolio consists of
 1. Business Case Defense
 2. Architecture Strategy
 3. Approach & Roadmap
