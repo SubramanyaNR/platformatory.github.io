@@ -9,7 +9,7 @@ track record of helping clients succeed. We pride ourselves on being nimble and 
 
 ## What do we do?
 
-We help CTI|O offices navigate the cloud native landscape & deliver on 3 interconnected enterprise transformation themes: 
+We help CTO and CIO offices navigate the cloud native landscape & deliver on 3 interconnected enterprise transformation themes: 
 
 1. Digital Platform → Cloud native backbone
 2. Full stack modernization → Infrastructure, Data & Applications
