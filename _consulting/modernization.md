@@ -6,38 +6,26 @@ weight: 3
 layout: service
 ---
 
-Enterprise wide Kafka deployments for event streaming, data operations & profit.
+[Gartner] (# https://www.gartner.com/doc/reprints?id=1-1WN35U1B&ct=191017&st=sb) says- Moderninzation should be Business-Centric, Continuous and Multiplatform.
+We witnessed the fact the 2019 was the year hybrid cloud won clearly. It is now supported by the 3 major cloud providers. 
+
+## Goals of Modernization
+
+Organizations percieve diffeent objectives in their intiatives for Application Modernization. We've listed the top ones in our consulting experience.
+
+1. Agile Delivery
+2. Cost Reduction
+3. Technology Overhaul
+4. Business Innovation
+5. Executive Mandate for Migration to Cloud
 
 
-## Geniti facinus praeruptam atris ab manus in
+## Our Methodology
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+We follow a step by step process to make sure that our clients reach their modernization goals successfully. The Migration Path can be combination of many options 
+such as 
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
-
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+1. Rehosting - Migrate the application as-is to  run on cloud.
+2. Replatforming - Lift and reshape 
+3. Refactoring- Build Microservices and expose APIs
+4. Replacing - Sometimes, the best way is to retire the legacy application.
