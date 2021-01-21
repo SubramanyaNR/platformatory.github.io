@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Consulting
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Our consulting services are meant to handhold clients  navigating the complexity of transition to Cloud-native architecture. We know that you have to deal with challenge of legacy applications and limited budgets. Our consultants will establish a clear roadmap to get started in the cloud- native world without business disruption.
