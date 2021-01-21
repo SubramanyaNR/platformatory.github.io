@@ -7,44 +7,21 @@ bodyClass: page-about
 Platformatory Labs was founded by a team with a passion for technology and proven 
 track record of helping clients succeed. We pride ourselves on being nimble and responsive to  their business needs.
 
-## Ne verba patulosque numen vix libet
+## What do we do?
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+We help CTI|O offices navigate the cloud native landscape & deliver on 3 interconnected enterprise transformation themes: 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+1. Digital Platform → Cloud native backbone
+2. Full stack modernization → Infrastructure, Data & Applications
+3. Digital Ecosystem → Developer Experience, Data & API Economy
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## Why work with us?
 
-## Postquam tamen
+Our team brings tangible value to every engagement because of the these factors
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+- High pedigree technology consulting:  Liaison with C-level leadership
+- Deep experience with enterprise scale IT modernization & operating model transformation
+- Specialized industry experience: particularly High tech, Telecom, BFSI & Retail
+- Practical experience with both commercial OSS & COTS
+- Platform craft: Professional services partnerships with top tech
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
