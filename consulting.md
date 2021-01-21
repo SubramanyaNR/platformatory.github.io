@@ -1,7 +1,7 @@
 ---
 title: Consulting
 layout: consulting
-intro_image: "images/cloud-native-design.jpeg"
+intro_image: "images/consulting.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
