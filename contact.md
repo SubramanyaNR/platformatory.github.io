@@ -4,22 +4,20 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Platformatory has incorporated entities in India and US presently
+Platformatory has incorporated entities in India and US presently. 
 
-# APAC , Middle East and India
+# Asia Pacific and Middle East
 
-Platformatory Labs Private Limited
+Platformatory Labs Private Limited 
 Indira Nagar, Bengaluru 560038 
 +91 80-25043126
 
 # North America
 
 Platformatory LLC
-MANASQUAN, NJ 08736
+Manasquan, NJ 08736
 +1 (925) 667-1272
 
-# Inquries
+# Do you want to join us
 
-hello@platformatory.com
-
-
+careers@platformatory.com
