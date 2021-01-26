@@ -4,10 +4,12 @@ date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 3
 layout: service
+summary: "Application Modernization is a full stack, full lifecycle problem requiring paradigm shifts across people, process & tooling. Platformatory can be an advance guard to make your team battle ready." 
 ---
 
 Gartner says this in a recent report. - "Moderninzation should be Business-Centric, Continuous and Multiplatform."
 We witnessed the fact the 2019 was the year hybrid cloud won clearly. It is now supported by the 3 major cloud providers. Our consulting portfolio consists of
+
 1. Business Case Defense
 2. Architecture Strategy
 3. Approach & Roadmap

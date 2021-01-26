@@ -4,6 +4,7 @@ date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 5
 layout: service
+summary: Platform enabled enterprises outperform competitors on maturity indices, including IT agility, Customer Experience & Cost of operations. Platformatory can enable you to forge a strong cloud native backbone & platform definition fit to your business domain.
 ---
 
 The Platform is the backbone of any digital ecosystem. Any organization hoping to build its own digital ecosystems must start by building the right platform to support its business strategy. Our services include

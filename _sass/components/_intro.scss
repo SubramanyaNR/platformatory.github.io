@@ -10,16 +10,15 @@
     padding-bottom: 140px;
   }
   h1 {
-    color: $black;
-    font-size: 42px;
+    color: $white;
+    font-size: 32px;
     font-weight: bold;
     line-height: 1.2;
     @include media-breakpoint-up(md) {
-      width: 80%;
-      font-size: 48px;
+      font-size: 30px;
     }
     @include media-breakpoint-up(lg) {
-      font-size: 50px;
+      font-size: 36px;
     }
   }
   h2 {
@@ -27,21 +26,45 @@
     font-size: 1.2rem;
     line-height: 1.4;
     margin-bottom: 30px;
-    color: $black;
+    color: $white;
     font-family: $font-family-base;
   }
   p {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: light;
     line-height: 1.5;
-    color: $steel;
-    @include media-breakpoint-up(md) {
-      width: 80%;
-    }
+    color: $white;
+    opacity: .7;
   }
 }
 
 .intro-small {
   padding-top: 100px;
   padding-bottom: 30px;
+}
+
+.consult-content-wrapper {
+  background-color: #f5f5f5 !important;
+
+  .consult-intro-image {
+      width: 100%;
+  }
+}
+
+.service-content-wrapper {
+  .service-summary {
+    background: $primary;
+    padding: 30px;
+    border-radius: 4px;
+    text-align: center;
+    h2 {
+      a {
+        color: $white;
+      }
+    }
+
+    p {
+      color: $white;
+    }
+  }
 }

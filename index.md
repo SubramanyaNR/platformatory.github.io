@@ -2,11 +2,11 @@
 title: Platformatory
 layout: home
 description: Platformatory home page.
-intro_image: "images/illustrations/pexels-albin-berlin-906982.jpg"
+intro_image: "images/illustrations/cnative.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Platformatory: Cloud Native Architecture & Engineering studio
+# Cloud Native Engineering Studio
 
-Platformatory is a niche technology consulting collective. We help enterprises accelerate realization of their digital platform & operations strategy. We also work as a long haul partner towards building a modern engineering CoEs & chief technology office with the broad charter of IT/Tech landscape modernization.
+Cloud migration & modernization is a pinned feature in every digital transformation charter. In practice, most initiatives fail to live up to the promised RoI. At platformatory, we believe enterprises need to think beyond "lift & shift" towards a holistic cloud native transformation & platform centric IT operating model. We partner with business & technology leaders to define, experiment, co-create & scale modern software products.
