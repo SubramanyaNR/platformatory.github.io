@@ -6,7 +6,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Consulting
+# Butterfly Effect
 
-Our consulting services are meant to handhold clients  navigating the complexity of transition to Cloud-native architecture. We know that you have to deal with challenge of legacy applications and limited budgets. Our consultants will establish a clear roadmap to get started in the cloud- native world without business disruption.
+In chaos theory, the butterfly effect is the sensitive dependence on initial conditions in which a small change in one state of a deterministic nonlinear system can result in large differences in a later state.
 
+If you're embarking on a strateic cloud native transformation initiative, early help (and an outside-in view) can make a world of difference.
