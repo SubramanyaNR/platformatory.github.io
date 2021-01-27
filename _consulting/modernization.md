@@ -8,8 +8,8 @@ summary: "Application Modernization is a full stack, full lifecycle problem requ
 image: "../images/moernization.jpg"
 ---
 
-Gartner says this in a recent report. - "Moderninzation should be Business-Centric, Continuous and Multiplatform."
-We witnessed the fact the 2019 was the year hybrid cloud won clearly. It is now supported by the 3 major cloud providers. Our consulting portfolio consists of
+
+The Hybrid Cloud was the clear winner in 2019.It is now supported by the 3 major cloud providers.Any Moderninzation initiative should be Business-Centric, Continuous and Multiplatform. Our consulting portfolio is built around making this this happen. We offer the following services
 
 1. Business Case Defense
 2. Architecture Strategy
@@ -30,7 +30,7 @@ Organizations percieve diffeent objectives in their intiatives for Application M
 
 ## Our Methodology
 
-We follow a step by step process to make sure that our clients reach their modernization goals successfully. The Migration Path can be combination of many options 
+We follow a step-by-step process to make sure that our clients reach their modernization goals successfully. The Migration Path can be combination of many options 
 such as 
 
 1. Rehosting - Migrate the application as-is to  run on cloud.
