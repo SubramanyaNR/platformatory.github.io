@@ -1,0 +1,17 @@
+[
+  {
+    "title": "VMWare Tanzu",
+    "description": "Platform deployment & Day 2 services around VMWare's Hybrid Cloud Platform based on Kubernetes",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Confluent",
+    "description": "Adopting Kafka in the enterprise, incuding hybrid cloud deployments & operations",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Kong",
+    "description": "Integrated API Management & Service Mesh operations across heregenous cloud providers & services",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]

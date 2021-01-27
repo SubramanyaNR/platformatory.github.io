@@ -2,6 +2,7 @@
 title: Contact Us
 layout: contact
 bodyClass: page-contact
+intro_image: 
 ---
 
 Platformatory has incorporated entities in India and US. We plan to expand to other geographies shortly.
