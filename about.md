@@ -3,6 +3,8 @@ title: 'About Us'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
+intro_image: "images/illustrations/about-us-banner.png"
+summary: "Application Modernization is a full stack, full lifecycle problem requiring paradigm shifts across people, process & tooling. Platformatory can be an advance guard to make your team battle ready."
 ---
 Platformatory Labs was founded by a team with a passion for technology and proven 
 track record of helping clients succeed. We pride ourselves on being nimble and responsive to  their business needs.

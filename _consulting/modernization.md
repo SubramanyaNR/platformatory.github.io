@@ -5,6 +5,7 @@ featured: true
 weight: 3
 layout: service
 summary: "Application Modernization is a full stack, full lifecycle problem requiring paradigm shifts across people, process & tooling. Platformatory can be an advance guard to make your team battle ready." 
+image: "../images/moernization.jpg"
 ---
 
 Gartner says this in a recent report. - "Moderninzation should be Business-Centric, Continuous and Multiplatform."

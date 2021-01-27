@@ -2,10 +2,11 @@ a {
   color: $primary;
 }
 p {
-  line-height: 26px;
+  line-height: 22px;
   color: $steel;
   font-family: $font-family-base;
   margin-bottom: 20px;
+  font-size: 14px;
 }
 h1 {
   font-size: 20px;
@@ -23,7 +24,7 @@ h2 {
   line-height: 1.4;
   margin-bottom: 10px;
   @include media-breakpoint-up(md) {
-    font-size: 26px;
+    font-size: 24px;
     line-height: 1.4;
   }
 }
@@ -42,5 +43,24 @@ ol {
   li {
     padding: 0;
     margin: 0;
+  }
+}
+
+.section-title {
+  color: #1f4e8e;
+  font-size: 35px;
+  padding-left: 15px;
+  position: relative;
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    display: block;
+    background-color: #4ba0f7;
+    top: 3px;
+    right: unset;
+    height: unset;
+    width: 0.35rem;
   }
 }
