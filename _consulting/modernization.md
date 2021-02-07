@@ -8,32 +8,7 @@ summary: "Application Modernization is a full stack, full lifecycle problem requ
 image: "../images/moernization.jpg"
 ---
 
-
-The Hybrid Cloud was the clear winner in 2019.It is now supported by the 3 major cloud providers.Any Moderninzation initiative should be Business-Centric, Continuous and Multiplatform. Our consulting portfolio is built around making this this happen. We offer the following services
-
-1. Business Case Defense
-2. Architecture Strategy
-3. Approach & Roadmap
-4. Transition & Operating Model
-
-
-## Goals of Modernization
-
-Organizations percieve diffeent objectives in their intiatives for Application Modernization. We've listed the top ones in our consulting experience.
-
-1. Agile Delivery
-2. Cost Reduction
-3. Technology Overhaul
-4. Business Innovation
-5. Executive Mandate for Migration to Cloud
-
-
-## Our Methodology
-
-We follow a step-by-step process to make sure that our clients reach their modernization goals successfully. The Migration Path can be combination of many options 
-such as 
-
-1. Rehosting - Migrate the application as-is to  run on cloud.
-2. Replatforming - Lift and reshape 
-3. Refactoring- Build Microservices and expose APIs
-4. Replacing - Sometimes, the best way is to retire the legacy application.
+* Convince the boss: Build a business case defense for why you need to be doing what you're doing.
+* Create a roadmap: You could lift & shift, replatform or re-architect or embark on a green field journey. 
+* Deliver a 360deg blueprint:  Devil in the details. Disambiguate Architecture, scaling, economics & operations.
+* Show empirical evidence: A proof of concept reduces risk & puts thoughts into action.

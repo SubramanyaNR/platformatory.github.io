@@ -30,8 +30,10 @@ collections:
     output: true
   consulting:
     output: true
-  solutions: 
+  solutions:
     output: true
+  openings:
+    output: true  
 
 sass:
   indentWidth: 4

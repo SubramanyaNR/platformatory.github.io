@@ -2,7 +2,7 @@
 title: Platformatory
 layout: home
 description: Platformatory home page.
-intro_image: "images/illustrations/cnative.jpg"
+intro_image: "images/illustrations/30496-min.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
