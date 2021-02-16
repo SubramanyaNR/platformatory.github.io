@@ -14,8 +14,8 @@ The modern Digital Platform is a product meant to serve both  internal & externa
 So, how or where does a platform journey begin? We help you find your way.
 
 * <span class="icon-serv"><img src="../images/icons/survey.svg" /></span>Survey the ground: Assess your present portfolio of applications & IT operating model. Calibrate risks.
-* <span class="icon-serv"><img src="../images/icons/facilitate.svg" /></span>Facilitate vision & alignment: Define why you may need (or not need), across Engineering, IT, DevOps, Security & Digital
-* <span class="icon-serv"><img src="../images/icons/navigate.svg" /></span>Navigate your options: Choose to build (on open-source) or buy COTS platform stack. Understand cost, pros, cons & tradeoffs
+* <span class="icon-serv"><img src="../images/icons/facilitate.svg" /></span>Facilitate vision & alignment: Define what you may need (or not need), across Engineering, IT, DevOps, Security & Digital
+* <span class="icon-serv"><img src="../images/icons/navigate.svg" /></span>Navigate your options: Choose to build (on open-source) or buy COTS platform stack. Understand cost, pros/cons and tradeoffs
 * <span class="icon-serv"><img src="../images/icons/action.svg" /></span>Actionable plan: Build a triaged backlog to kickstart your platform product.
 
 
