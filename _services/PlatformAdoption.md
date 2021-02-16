@@ -13,8 +13,8 @@ Changing behaviour is hard. Part & parcel of adopting a new platform or technolo
 
 We partner towards being that team that facilitates internal dev rel and alignment.
 
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Advance Guard: Analyze product portfolio across central IT, BU & projects to choose initial adopters
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Onboarding Assistance: Provide relevant architectture guidance, training & process overhaul towards successful adoption
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Heavy Lifting: Sometimes projects require major overhaul. Get hands dirty to enable smoother transition
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Troubleshooting & support: Things always break. Teams need insurance and a guardian angel
+- <span class="icon-serv"><img src="../images/icons/swat.svg" /></span>Advance Guard: Analyze product portfolio across central IT, BU & projects to choose initial adopters
+- <span class="icon-serv"><img src="../images/icons/onboarding.svg" /></span>Onboarding Assistance: Provide relevant architectture guidance, training & process overhaul towards successful adoption
+- <span class="icon-serv"><img src="../images/icons/lifting.svg" /></span>Heavy Lifting: Sometimes projects require major overhaul. Get hands dirty to enable smoother transition
+- <span class="icon-serv"><img src="../images/icons/troubleshooting.svg" /></span>Troubleshooting & support: Things always break. Teams need insurance and a guardian angel
 

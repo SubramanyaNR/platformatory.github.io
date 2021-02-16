@@ -19,9 +19,9 @@ A strong platform foundation not only provides a launchpad for rolling out digit
 
 Specifically, we help deliver "fast start" accelerators involving opinionated but best in breed tech choices:
 
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Kubernetes as a unified cloud native operating model: Clusters secured and CIS benchmarked for production usage. Delivered as Terraform & ansible scripts with full lifecycle monitoring via Prometheus, Grafana (or your existing tooling)
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Spinnaker, Tekton pipelines as code. Built to suit your stack and deployment cadence
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Kafka or NATS as a cloud native event bus: Stream evemts, data & build reactive architectures
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Kubernetes operators & service brokers to run almost any SQL, No-SQL datastore
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Kong as a unified API Gateway & service control: Centralized observability, security & lfiecycle management of APIs
+- <span class="icon-serv"><img src="../images/icons/cloudfoundation.svg" /></span>Kubernetes as a unified cloud native operating model: Clusters secured and CIS benchmarked for production usage. Delivered as Terraform & ansible scripts with full lifecycle monitoring via Prometheus, Grafana (or your existing tooling)
+- <span class="icon-serv"><img src="../images/icons/pipelines.svg" /></span>Spinnaker, Tekton pipelines as code. Built to suit your stack and deployment cadence
+- <span class="icon-serv"><img src="../images/icons/hub.svg" /></span>Kafka or NATS as a cloud native event bus: Stream evemts, data & build reactive architectures
+- <span class="icon-serv"><img src="../images/icons/operators.svg" /></span>Kubernetes operators & service brokers to run almost any SQL, No-SQL datastore
+- <span class="icon-serv"><img src="../images/icons/gateway.svg" /></span>Kong as a unified API Gateway & service control: Centralized observability, security & lfiecycle management of APIs
 

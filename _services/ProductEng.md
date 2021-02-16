@@ -13,8 +13,8 @@ Developing modern products or rewriting legacy is a full stack, full lifecycle e
 
 Some universal first principles that hold: 
 
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Domain Driven Design: Understand your product's domain & context map
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Microservices & Functions: Approach models towards cloud native applications in general: Distributable and scalable
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Data & APIs: Your services provide an interface to the external world. They also integrate & generate data. These are first class product concerns:
-- <span class="icon-serv"><img src="../images/survey-icon.png" /></span>Microfrontends: Small is beautiful. This applies to your app experience too.
+- <span class="icon-serv"><img src="../images/icons/ddd.svg" /></span>Domain Driven Design: Understand your product's domain & context map
+- <span class="icon-serv"><img src="../images/icons/services.svg" /></span>Microservices & Functions: Approach models towards cloud native applications in general: Distributable and scalable
+- <span class="icon-serv"><img src="../images/icons/apis.svg" /></span>Data & APIs: Your services provide an interface to the external world. They also integrate & generate data. These are first class product concerns:
+- <span class="icon-serv"><img src="../images/icons/microfrontends.svg" /></span>Microfrontends: Small is beautiful. This applies to your app experience too.
 
