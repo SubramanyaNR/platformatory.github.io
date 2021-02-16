@@ -9,7 +9,7 @@ image: "../images/landscaping.png"
 hash: "platform-landscaping"
 ---
 
-The modern Digital Platform is a product meant to serve both  internal & external consumers. It needs to address the pressing concerens and standard use-cases across your product portfolio. Most often, a platform is characterized by a self service foundation of APIs, composable infrastructure, continuous delivery of cloud services and  data management layers .These enable product teams to innovate rapidly rather than reinventing the wheel.
+The modern Digital Platform is a product meant to serve both  internal & external consumers. It needs to address the pressing concerns and standard use-cases across your product portfolio. Most often, a platform is characterized by a self service foundation of APIs, composable infrastructure, continuous delivery of cloud services and  data management layers. These enable product teams to innovate rapidly rather than reinventing the wheel.
 
 So, how or where does a platform journey begin? We help you find your way.
 
