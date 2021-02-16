@@ -5,8 +5,9 @@ description: Platformatory home page.
 intro_image: "images/illustrations/30496-min.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
+what_we_do: "We help enterprises design, define, experiment, co-create & scale modern digital platforms, with a focus on APIs, Data & Infrastructure"
 ---
 
 # Cloud Native Engineering Studio
 
-Cloud migration & modernization is a pinned feature in every digital transformation charter. In practice, most initiatives fail to live up to the promised RoI. At platformatory, we believe enterprises need to think beyond "lift & shift" towards a holistic cloud native transformation & platform centric IT operating model. We partner with business & technology leaders to define, experiment, co-create & scale modern software products.
+At platformatory, we believe you need to think your cloud strategy beyond "lift & shift", towards a modern platform centric IT operating model. We look at ourselves as a _long haul_ consulting & engineering partner to CTO offices towards realizing value from modernization initiatives.

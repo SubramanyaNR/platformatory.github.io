@@ -2,30 +2,11 @@
 title: Contact Us
 layout: contact
 bodyClass: page-contact
-intro_image: 
+intro_image: "../images/banners/20945548.jpg" 
+summary: "We're reachable on a vareity of protocols & transports. We prefer asynchronous communication via email"
 ---
 
-Platformatory has incorporated entities in India and US. We plan to expand to other geographies shortly.
+# Say Hello
 
-<img src="..\images\locations.png">
+We're based in Bangalore, San Francisco (although we work remotely); If you're looking for a partnership, we're available for a conversation in real life in either place, <insert video conferencing tool> and asynchronously via email. 
 
-
-# Asia Pacific and Middle East
-
-Platformatory Labs Private Limited <br>
-NGEF Lane,Indira Nagar<br>
-Bengaluru 560038 <br>
-phone:+91 (80) 2504 3126
-
-# Americas and Europe
-
-Platformatory LLC <br>
-phone: +1 (925) 667-1272
-
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "9357888",
-	formId: "c8749b29-48ce-4b75-ab16-bbe632e04ca6"
-});
-</script>

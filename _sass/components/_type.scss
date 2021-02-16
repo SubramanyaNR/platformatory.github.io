@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 a {
   color: $primary;
 }
@@ -49,18 +53,31 @@ ol {
 .section-title {
   color: #1f4e8e;
   font-size: 35px;
-  padding-left: 15px;
   position: relative;
+  // &::after {
+  //   content: "";
+  //   position: absolute;
+  //   bottom: 10px;
+  //   left: 0;
+  //   display: block;
+  //   background-color: #4ba0f7;
+  //   top: 3px;
+  //   right: unset;
+  //   height: unset;
+  //   width: 0.35rem;
+  // }
+}
+
+.view-more-button {
+  border-radius: 30px !important;
+  padding: 0px 40px 0px 20px!important;
   &::after {
     content: "";
     position: absolute;
-    bottom: 10px;
-    left: 0;
-    display: block;
-    background-color: #4ba0f7;
-    top: 3px;
-    right: unset;
-    height: unset;
-    width: 0.35rem;
+    width: 40px;
+    height: 40px;
+    background: url(/images/892528.svg) no-repeat 12px;
+    filter: brightness(210) contrast(50);
+    background-size: 14px;
   }
 }

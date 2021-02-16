@@ -9,9 +9,6 @@ bodyClass: page-home
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1 intro-content-block">
         {{ content }}
-        {% if site.homepage.show_call_box %}
-          {% include call.html show_button=true %}
-        {% endif %}
       </div>
     </div>
   </div>
@@ -24,19 +21,22 @@ bodyClass: page-home
 
 
 <div class="strip consult-content-wrapper pt-md-6">
-  <div class="container pb-6 pb-md-6">  
-    <div class="row justify-content-start">
-	<div class="section-head"><h2 class="section-title">What do we do?</h2></div>    
+  <div class="container pb-6 pb-md-6">
+    <div class="section-head text-center intro-text">
+      <h2 class="section-title">What do we do?</h2>
+      <p>{{ page.what_we_do }}</p>
+  </div>  
+    <div class="row justify-content-start">    
         <div class="col-md-12">
           <h2 class="section-title">Consulting</h2>	
           <div class="row">
             {% for service in site.consulting %}
             <div class="col-12 col-md-6 mb-1">
-              <div class="row service-content">
+              <div class="row service-content-card">
                 <div class="service service-summary col-md-8">
                   <div class="service-content">
                     <h2 class="service-title">
-                      <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+			    <a href="{{site.baseurl}}consulting#{{service.hash}}">{{ service.title }}</a>
                     </h2>
                   </div>
                   </div>
@@ -49,14 +49,14 @@ bodyClass: page-home
               </div>
             {% endfor %}
           </div>
+          <div class="row justify-content-center">
+            <div class="col-auto">
+              <a class="button button-primary view-more-button" href="{{site.baseurl}}/services">Learn more about our consulting services</a>
+            </div>
+          </div>
         </div>
     </div>
   </div>
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{site.baseurl}}/services">Learn more about our consulting services</a>
-      </div>
-    </div>
 </div>
 
 
@@ -64,24 +64,27 @@ bodyClass: page-home
 
 
 <div class="strip service-content-wrapper">
-  <div class="container pt-6 pb-6 pb-md-10">
-    <h2 class="section-title">Services</h2>	  
+  <div class="container pt-6 pb-6 pb-md-8">
+    <h2 class="section-title">Engineering Excellence</h2>	  
     <div class="row justify-content-start">
       {% for service in site.services %}
       <div class="col-12 col-md-3 mb-1">
         <div class="service service-summary">
-          <div class="service-content">
+          <div class="service-content py-3">
+            <div class="col-auto p-0 icon-lg">
+              <img alt={{ page.title }} class="consult-intro-image" src="{{service.image}}" />
+            </div>
             <h2 class="service-title">
-              <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+		    <a href="{{site.baseurl}}services#{{service.hash}}">{{ service.title }}</a>
             </h2>
           </div>
         </div>
       </div>
       {% endfor %}
     </div>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center mt-2">
       <div class="col-auto">
-        <a class="button button-primary" href="{{site.baseurl}}/services">Learn more about our engineering services</a>
+        <a class="button button-primary view-more-button" href="{{site.baseurl}}/services">Learn more about our engineering services</a>
       </div>
     </div>
   </div>
@@ -91,8 +94,8 @@ bodyClass: page-home
 
 {% if site.data.features %}
 <div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <h2 class="service-title">Professional Services & Field Engineering</h2>  	  
+  <div class="container pt-6 pb-6 pt-md-8 pb-md-8">
+    <h2 class="service-title section-title mb-3">Professional Services & Field Engineering</h2>  	  
     <div class="row justify-content-center">
       {% for feature in site.data.features %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">

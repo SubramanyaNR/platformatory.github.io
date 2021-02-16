@@ -5,7 +5,10 @@ main:
   - name: "Engineering"
     url: "/services/"
     weight: 2
-  - name: "Platformatory"
+  - name: "OpenDevX"
+    url: "https://opendevx.io/"
+    weight: 2   
+  - name: "About"
     url: "/platformatory/"
     weight: 3
   - name: "Get in touch"
