@@ -12,6 +12,7 @@ hash: "modernization"
 Modernization is a commitment towards the perpetual evolution of your software stack to suit the changing needs of business. We believe modernization can be business centric with a measurable RoI.The purpose of technology is to serve your business needs.
 
 In practice, most modernization initiatives tend to be focused only on the application stack and tactics around the possibilities cloud can offer. Our experience suggests that customers who achieve positive outcomes in modernizing their technology do a few things right.
+
 | 1. Product Orientation: 
     Unlike projects or specalized silos, this leaves an impact across people, processes, tooling & culture  |2. Domain Driven Design: 
     Baking a self-evident business architecture layer into your product |
