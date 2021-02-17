@@ -22,13 +22,13 @@ bodyClass: page-services-list
 <div class="container pb-6">
   <div class="row">
     <div class="col-md-3 pt-3 left-panel">
-      <h4>Browse offerings</h4>
+      <h4>Browse</h4>
       <ul>
 	{% for consulting in site.consulting %}      
         <li><a href="#{{ consulting.hash }}">{{ consulting.title }} </a></li>
 	{% endfor %}
       </ul>
-      {% include_relative _includes/call.html %}
+      {% include_relative _includes/cta.html %}
     </div>
     <div class="col-12 col-md-9 mb-3 pt-3 p-lg-4">
       {% for consulting in site.consulting %}

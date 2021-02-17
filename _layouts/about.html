@@ -27,13 +27,17 @@ bodyClass: page-services-list
             <li><a href="#team">Leadership Team</a></li>
             <li><a href="#openings">Openings</a></li>
           </ul>
+	{% include_relative _includes/cta.html %}  
         </div>
         <div class="col-12 col-md-9 mb-3 pt-3 p-lg-4">
             <div class="container pb-6 pt-2 pt-md-0 pb-md-1" id="about">
                 <div class="row justify-content-start">
                     <div class="col-12">
                         <div class="service service-single">
-                            <div class="content">{{page.summary}}</div>
+                            <div class="content">
+                              {% capture my_include %}{% include_relative _pages/culture.md %}{% endcapture %}
+                              {{ my_include | markdownify }}
+			    </div>
                         </div>
                     </div>
                 </div>
@@ -63,22 +67,17 @@ bodyClass: page-services-list
     
             <div class="container pt-6 pb-6" id="openings">
                 <h2 class="section-title">Openings</h2>
-                <div class="row">
-                    {% assign openings = site.openings | sort: "weight" %}
+                <div class="card" style="width: 18rem;">
+                   {% assign openings = site.openings | sort: "weight" %}
                     {% for opening in openings %}
-                    <div class="col-12 col-md-4 mb-2">
-                        <div class="team team-summary team-summary-large">
-                            <div class="team-meta">
-                                <h2 class="team-name">{{ opening.title }}</h2>
-                                <p class="team-description">{{ opening.location }}</p>
-                                {% if team.applyurl %}
-                                <a target="_blank" href="{{ opening.applyurl }}"Apply</a>
-                                {% endif %}
-                            </div>
-                            <div class="team-content">{{ opening.skills }}</div>
-                        </div>
-                    </div>
-                    {% endfor %}
+			  <div class="card-body">
+				  <h5 class="card-title">{{opening.title}} </h5>
+				  <h6 class="card-subtitle mb-2 text-muted">{{opening.skills}}</h6>
+				  <p class="card-text">{{opening.summary}}</p>
+				  <a href="{{opening.jd}}" class="card-link">Detailed JD</a>
+				  <a href="{{openings.apply_url}}" class="card-link">Apply</a>
+			  </div>
+		    {% endfor %}
                 </div>
             </div>
     

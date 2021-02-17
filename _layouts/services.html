@@ -21,12 +21,13 @@ bodyClass: page-services-list
 <div class="container pb-6">
   <div class="row">
     <div class="col-md-3 pt-3 left-panel">
-      <h4>Browse offerings</h4>
+      <h4>Browse</h4>
       <ul>
         {% for service in site.services %}
         <li><a href="#{{ service.hash }}">{{ service.title }} </a></li>
         {% endfor %}
       </ul>
+    {% include_relative _includes/cta.html %}  
     </div>
     <div class="col-12 col-md-9 mb-3 pt-3">
     {% for service in site.services %}
