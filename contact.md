@@ -8,5 +8,5 @@ summary: "We're reachable on a vareity of protocols & transports. We prefer asyn
 
 # Say Hello
 
-We're based in Bangalore, San Francisco (although we work remotely); If you're looking for a partnership, we're available for a conversation in real life in either place, <insert video conferencing tool> and asynchronously via email. 
+We're based in Bengaluru and  San Francisco (although we work remotely). If you're looking for a partnership, we're available for a conversation in real life at both places.You can also book a video chat <insert video conferencing tool> or talk to us asynchronously via email. 
 
