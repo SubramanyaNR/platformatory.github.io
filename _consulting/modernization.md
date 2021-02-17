@@ -17,6 +17,8 @@ In practice, most modernization initiatives tend to be focused only on the appli
 |**Product Orientation**: Unlike projects or specalized silos, this leaves an impact across people, processes, tooling & culture|**Domain Driven Design**: Baking a self-evident business architecture layer into your product|
 |**Engineering Excellence**: Software defines everything backed by continous delivery & experimentation infrastructure|**Clarity of KPIs**: Specify and make it objectives measurable. Make money, save money or reduce risk| 
 
+
+
 * <span class="icon-serv"><img src="../images/icons/boss.svg" /></span>Convince the Boss: Build a business case defense for why you need to be doing what you're doing.
 * <span class="icon-serv"><img src="../images/icons/roadmap.svg" /></span>Create a Roadmap: You could lift & shift, replatform or re-architect or embark on a green field journey. 
 * <span class="icon-serv"><img src="../images/icons/blueprint.svg" /></span>Deliver a 360° blueprint:  Devil is in the details. Disambiguate Architecture, scaling, economics & operations.
