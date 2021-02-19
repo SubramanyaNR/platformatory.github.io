@@ -8,5 +8,4 @@ intro_image: "images/banners/10493.jpg"
 
 # CTO Office as a Service
 
-We're a collective of technlogists & innovators in the pursuit of hard engineering problems at the heart of enterprises. Our niche is high pedigree software consulting combined with a practical & incremental approach to change. 
-
+We're a collective of technlogists & innovators in the pursuit of hard engineering problems at the heart of enterprises. Our niche is high pedigree software consulting combined with a practical & incremental approach to change.
