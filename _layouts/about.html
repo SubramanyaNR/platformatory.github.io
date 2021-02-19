@@ -65,11 +65,12 @@ bodyClass: page-services-list
                 </div>
             </div>
     
-            <div class="container pt-6 pb-6" id="openings">
+	    <div class="container pt-6 pb-6" id="openings">
                 <h2 class="section-title">Openings</h2>
-                <div class="card" style="width: 18rem;">
+		<div class="row">
                    {% assign openings = site.openings | sort: "weight" %}
                     {% for opening in openings %}
+		    	<div class="card" style="width:18rem;">
 			  <div class="card-body">
 				  <h5 class="card-title">{{opening.title}} </h5>
 				  <h6 class="card-subtitle mb-2 text-muted">{{opening.skills}}</h6>
@@ -77,8 +78,9 @@ bodyClass: page-services-list
 				  <a href="{{opening.jd}}" class="card-link">Detailed JD</a>
 				  <a href="{{openings.apply_url}}" class="card-link">Apply</a>
 			  </div>
+			</div>
 		    {% endfor %}
-                </div>
+		</div>
             </div>
     
         </div>
