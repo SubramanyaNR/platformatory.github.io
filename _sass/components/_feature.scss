@@ -9,6 +9,15 @@
   flex-direction: column;
   text-align: center;
   box-shadow: 0px 0px 5px #f5e1e7;
+  &:hover {
+    background: linear-gradient(to bottom, #0068a5 0%, #003367 100%);
+    color: #ffffff !important;
+    .feature-image {
+      img {
+        filter: contrast(0) brightness(5);
+      }
+    }
+  }
   .feature-image {
     flex: 0 0 auto;
     width: 80px;

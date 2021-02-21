@@ -13,10 +13,10 @@ Modernization is a commitment towards the perpetual evolution of your software s
 
 In practice, most modernization initiatives tend to be focused only on the application stack and tactics around the possibilities cloud can offer. Our experience suggests that customers who achieve positive outcomes in modernizing their technology do a few things right.
 
-|**Product Orientation**: *Unlike projects or specalized silos, this impacts people,processes and tooling*|**Domain Driven Design**: *Baking a self-evident business architecture layer into your product*|
-| | |
-|**Engineering Excellence**: *Software defines everything backed by continous delivery & experimentation infrastructure*|**Clarity of KPIs**: *Specify and make it objectives measurable. Make money, save money or reduce risk*| 
-
+1. **Product Orientation**: *Unlike projects or specalized silos, this impacts people,processes and tooling*
+2. **Domain Driven Design**: *Baking a self-evident business architecture layer into your product
+3. **Engineering Excellence**: *Software defines everything backed by continous delivery & experimentation infrastructure*
+4. **Clarity of KPIs**: *Specify and make it objectives measurable. Make money, save money or reduce risk* 
 
 
 * <span class="icon-serv"><img src="../images/icons/boss.svg" /></span>Convince the Boss: Build a business case defense for why you need to be doing what you're doing.

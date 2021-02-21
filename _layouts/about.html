@@ -19,70 +19,72 @@ bodyClass: page-services-list
   </div>
 </div>
 <div class="container">
-    <div class="row">
-        <div class="col-md-3 pt-3 left-panel">
-          <h4>Browse</h4>
-          <ul>
-            <li><a href="#about">Culture</a></li>
-            <li><a href="#team">Leadership Team</a></li>
-            <li><a href="#openings">Openings</a></li>
-          </ul>
-	{% include_relative _includes/cta.html %}  
-        </div>
-        <div class="col-12 col-md-9 mb-3 pt-3 p-lg-4">
-            <div class="container pb-6 pt-2 pt-md-0 pb-md-1" id="about">
-                <div class="row justify-content-start">
-                    <div class="col-12">
-                        <div class="service service-single">
-                            <div class="content">
-                              {% capture my_include %}{% include_relative _pages/culture.md %}{% endcapture %}
-                              {{ my_include | markdownify }}
-			    </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-    
-            <div class="container pt-6" id="team">
-                <h2 class="section-title">Team</h2>
-                <div class="row pt-6">
-                    {% assign teams = site.team | sort: "weight" %}
-                    {% for team in teams %}
-                    <div class="col-12 col-md-4 mb-3">
-                        <div class="team team-summary team-summary-large">
-                            {% if team.image %}
-                            <div class="team-image">
-                                <img alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
-                            </div>
-                            {% endif %}
-                            <div class="team-meta">
-                                <h2 class="team-name">{{ team.title }}</h2>
-                                <p class="team-description">{{ team.jobtitle }}</p>
-                            </div>
-                        </div>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
-    
-	    <div class="container pt-6 pb-6" id="openings">
-                <h2 class="section-title">Openings</h2>
-		<div class="row">
-                   {% assign openings = site.openings | sort: "weight" %}
-                    {% for opening in openings %}
-		    	<div class="card" style="width:18rem;">
-			  <div class="card-body">
-				  <h5 class="card-title">{{opening.title}} </h5>
-				  <h6 class="card-subtitle mb-2 text-muted">{{opening.skills}}</h6>
-				  <p class="card-text">{{opening.summary}}</p>
-				  <a href="{{opening.jd}}" class="card-link">Detailed JD</a>
-				  <a href="{{openings.apply_url}}" class="card-link">Apply</a>
-			  </div>
-			</div>
-		    {% endfor %}
-		</div>
-            </div>
-    
-        </div>
+  <div class="row">
+    <div class="col-md-3 pt-3 left-panel">
+      <div class="left-panel-sticky">
+        <h4>Browse</h4>
+        <ul>
+          <li><a href="#about">Culture</a></li>
+          <li><a href="#team">Leadership Team</a></li>
+          <li><a href="#openings">Openings</a></li>
+        </ul>
+        {% include_relative _includes/cta.html %}  
+      </div>
     </div>
+    <div class="col-12 col-md-9 mb-3 pt-3 px-lg-3">
+      <div class="container pb-6 pt-2 pt-md-0 pb-md-1 p-0" id="about">
+        <div class="row justify-content-start">
+          <div class="col-12">
+            <div class="service service-single">
+              <div class="content">
+                {% capture my_include %}{% include_relative _pages/culture.md %}{% endcapture %}
+                {{ my_include | markdownify }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container p-0" id="team">
+        <h2 class="section-title">Team</h2>
+        <div class="row">
+          {% assign teams = site.team | sort: "weight" %}
+          {% for team in teams %}
+            <div class="col-12 col-md-4 px-1">
+                <div class="team team-summary team-summary-large py-2">
+                    {% if team.image %}
+                    <div class="team-image">
+                        <img alt="{{ team.title }}" class="img-fluid mb-2" src="{{ team.image | relative_url }}" />
+                    </div>
+                    {% endif %}
+                    <div class="team-meta">
+                        <h2 class="team-name">{{ team.title }}</h2>
+                        <p class="team-description">{{ team.jobtitle }}</p>
+                    </div>
+		    <div class="social-lists"><!--a href="{{team.twitter}}" target="_blank"><img src="/images/twitter.svg"></a--><a href="{{team.linkedin}}" target="_blank"><img src="/images/linkedin.svg"></a><!--a href="{{team.github}}" target="_blank"><img src="/images/social/github.svg"></a--></div>
+                </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="container mt-4 pb-3 openings" id="openings">
+        <h2 class="section-title">Openings</h2>
+        <div class="d-lg-flex">
+          {% assign openings = site.openings | sort: "weight" %}
+          {% for opening in openings %}
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">{{opening.title}} </h5>
+                <h6 class="card-subtitle mb-2 text-muted">{{opening.skills}}</h6>
+                <p class="card-text">{{opening.summary}}</p>
+                <a href="{{opening.jd}}" class="card-link">View JD</a>
+                <a href="{{openings.apply}}" class="card-link">Apply</a>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

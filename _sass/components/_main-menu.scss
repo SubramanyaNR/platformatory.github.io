@@ -9,13 +9,14 @@
     justify-content: flex-start;
     > li {
       list-style: none;
-      font-size: 1rem;
+      font-size: .8rem;
       > a {
-        padding: 10px 12px 10px 12px;
+        padding: 18px 12px 10px 12px;
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: $primary;
+        color: #46494e;
+        text-transform: uppercase;
         &:hover {
           text-decoration: underline;
         }
@@ -24,6 +25,7 @@
         > a {
           font-weight: bold;
           text-decoration: none;
+          color: $primary;
           &:hover {
             text-decoration: none;
             transition: all 225ms ease-in 0s;

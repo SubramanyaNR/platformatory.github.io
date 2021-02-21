@@ -11,11 +11,11 @@ hash: "platform-foundation"
 
 A strong platform foundation is a prerequsite for rolling out digital products and designning customer experiences.It also has to provide strong governance and security by design. This boils down to 5 things:
 
-- A hybrid cloud foundation to operate across hyperscalers and private cloud or on-premise
-- Continuous delivery infrastructure: Deliver faster & deliver better
-- Modern integration: ESB & Legacy middleware are passe. Move to a future of event driven architecture
-- Everything is a service: APIs provide abstraction & lifecycle management
-- Polyglot data persistence & application runtime: Run any programming language and use any database  
+1. A hybrid cloud foundation to operate across hyperscalers and private cloud or on-premise
+2. Continuous delivery infrastructure: Deliver faster & deliver better
+3. Modern integration: ESB & Legacy middleware are passe. Move to a future of event driven architecture
+4. Everything is a service: APIs provide abstraction & lifecycle management
+5. Polyglot data persistence & application runtime: Run any programming language and use any database  
 
 Specifically, we help deliver "fast start" accelerators involving best in breed technology choices based on our experience.
 

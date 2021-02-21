@@ -52,7 +52,9 @@ ol {
 
 .section-title {
   color: #1f4e8e;
-  font-size: 35px;
+  @include media-breakpoint-up(sm) {
+    font-size: 35px;
+  }
   position: relative;
   // &::after {
   //   content: "";
