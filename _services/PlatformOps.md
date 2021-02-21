@@ -6,7 +6,7 @@ weight: 3
 layout: service
 summary: "Industrialize cloud native platform SLOs & scale your DevSecOps in an SRE model."
 image: "images/services/operation.png"
-hash: "platform-adoption"
+hash: "platform-operations"
 ---
 
 For many years, operations was a low priority in the engineering lifecycle. In 2021, DevSecOps & Site Reliability Engineering are mainstream and no longer the novel way to operate. Is your organization's IT/DevOps/Security headcount growing along with the number of cloud resources or applications ? You may need to consider a different approach to deal with this situation.
