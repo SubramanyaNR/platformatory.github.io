@@ -26,11 +26,11 @@ bodyClass: page-contact
    <div class="col-12 col-md-6 address-info">
      <h2>USA</h2>
      <p> {{ site.data.contact.us_office }}</p>
-     <p>Phone: <a href="tel: {{ site.data.contact.phone }}"> {{ site.data.contact.phone_us }} </a></p>
-     <div class="d-none d-md-block">-----------------------------------------------------------------------------------------------------</div>
+     <p><a href="tel: {{ site.data.contact.phone }}"> {{ site.data.contact.phone_us }} </a></p>
+     <div class="line-seperator"></div>
       <h2 class="mt-4">India</h2>
       <p>{{ site.data.contact.india_office }}</p>
-      <p>Phone: <a href="tel: {{ site.data.contact.phone }}"> {{ site.data.contact.phone_in }} </a></p>
+      <p><a href="tel: {{ site.data.contact.phone }}"> {{ site.data.contact.phone_in }} </a></p>
       <div class="d-flex email-block">
         <span>Email : </span>
         <a href="mailto: {{ site.data.contact.email }}">{{ site.data.contact.email }}</a>

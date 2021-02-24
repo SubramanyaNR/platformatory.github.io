@@ -50,7 +50,7 @@ bodyClass: page-services-list
         <div class="row">
           {% assign teams = site.team | sort: "weight" %}
           {% for team in teams %}
-            <div class="col-12 col-md-4 px-1">
+            <div class="col-12 col-sm-6 col-xl-4 px-1">
                 <div class="team team-summary team-summary-large py-2">
                     {% if team.image %}
                     <div class="team-image">
@@ -61,7 +61,7 @@ bodyClass: page-services-list
                         <h2 class="team-name">{{ team.title }}</h2>
                         <p class="team-description">{{ team.jobtitle }}</p>
                     </div>
-		    <div class="social-lists"><!--a href="{{team.twitter}}" target="_blank"><img src="/images/twitter.svg"></a--><a href="{{team.linkedin}}" target="_blank"><img src="/images/linkedin.svg"></a><!--a href="{{team.github}}" target="_blank"><img src="/images/social/github.svg"></a--></div>
+                    <div class="social-lists"><a href="http://twitter.com" target="_blank"><img src="/images/twitter.svg"></a><a href="http://linkedin.com/in/vizkid" target="_blank"><img src="/images/linkedin.svg"></a><a href="http://linkedin.com/" target="_blank"><img src="/images/social/github.svg"></a></div>
                 </div>
             </div>
           {% endfor %}
@@ -70,7 +70,7 @@ bodyClass: page-services-list
 
       <div class="container mt-4 pb-3 openings" id="openings">
         <h2 class="section-title">Openings</h2>
-        <div class="d-lg-flex">
+        <div class="d-xl-flex">
           {% assign openings = site.openings | sort: "weight" %}
           {% for opening in openings %}
             <div class="card">
@@ -78,8 +78,8 @@ bodyClass: page-services-list
                 <h5 class="card-title">{{opening.title}} </h5>
                 <h6 class="card-subtitle mb-2 text-muted">{{opening.skills}}</h6>
                 <p class="card-text">{{opening.summary}}</p>
-                <a href="{{opening.jd}}" class="card-link">View JD</a>
-                <a href="{{openings.apply}}" class="card-link">Apply</a>
+                <a href="{{opening.jd}}" class="card-link">Detailed JD</a>
+                <a href="{{openings.apply_url}}" class="card-link">Apply</a>
               </div>
             </div>
           {% endfor %}

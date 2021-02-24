@@ -31,7 +31,7 @@ bodyClass: page-home
           <h2 class="section-title">Consulting</h2>	
           <div class="row">
             {% for service in site.consulting %}
-            <div class="col-12 col-md-6 mb-1">
+            <div class="col-12 col-sm-6 mb-1">
               <div class="row service-content-card">
                 <div class="service service-summary col-md-8">
                   <div class="service-content">
@@ -40,7 +40,7 @@ bodyClass: page-home
                     </h2>
                   </div>
                   </div>
-                  <div class="col-md-4 pt-2">
+                  <div class="col-md-4 pt-md-4 pt-lg-2 pt-1">
                     <div class="col-auto p-0 text-center">
                       <img alt={{ page.title }} class="consult-intro-image" src="{{service.image}}" />
                     </div>
@@ -68,7 +68,7 @@ bodyClass: page-home
     <h2 class="section-title">Engineering Excellence</h2>	  
     <div class="row justify-content-start">
       {% for service in site.services %}
-      <div class="col-12 col-md-3 mb-1">
+      <div class="col-12 col-sm-6 col-lg-3 mb-1">
         <div class="service service-summary">
           <div class="service-content py-3">
             <div class="col-auto p-0 icon-lg">
@@ -98,7 +98,7 @@ bodyClass: page-home
     <h2 class="service-title section-title mb-3">Professional Services & Field Engineering</h2>  	  
     <div class="row justify-content-center">
       {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
+      <div class="col-12 col-sm-6 col-lg-4 mb-2">
         <div class="feature">
           {% if feature.image %}
           <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image | relative_url }}" /></div>

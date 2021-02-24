@@ -1,7 +1,7 @@
 .team-summary {
-  @include media-breakpoint-up(md) {
-    display: flex;
-  }
+  // @include media-breakpoint-up(sm) {
+  //   display: flex;
+  // }
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;

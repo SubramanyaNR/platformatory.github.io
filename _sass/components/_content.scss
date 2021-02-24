@@ -146,7 +146,7 @@ ol {
       display: inline-block;
       text-align: center;
       font-size: 12px;
-      @include media-breakpoint-up(lg) {
+      @include media-breakpoint-up(xl) {
         width: 49%;
       }
       color: #fff;
@@ -215,4 +215,8 @@ a {
       color: #ffffff;
       }
   }
+}
+
+.line-seperator{
+  border-bottom: dashed 2px #6b6b6b;
 }

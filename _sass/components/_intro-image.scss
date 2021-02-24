@@ -27,12 +27,12 @@
     // width: 850px;
   }
 }
-.intro-image-hide-mobile {
-  display: none;
-  @include media-breakpoint-up(md) {
-    display: block;
-  }
-}
+// .intro-image-hide-mobile {
+//   display: none;
+//   @include media-breakpoint-up(md) {
+//     display: block;
+//   }
+// }
 
 .banner-slider {
   position: absolute;
