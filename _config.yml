@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Platformatory'
+title: 'Platformatory: Apache Kafka, Kong, Kubernetes, Modernization & Platform Strategy Consulting'
 
 google_analytics_id: "G-PWW2W71JX1"
 homepage:

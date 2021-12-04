@@ -5,7 +5,7 @@ description: Platformatory home page.
 intro_image: "images/illustrations/30496-min.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-what_we_do: "We help enterprises design, define, experiment, co-create & scale modern digital platforms, with a focus on APIs, Data & Infrastructure"
+what_we_do: "We help enterprises define, design, co-create & scale modern digital platforms, with a focus on APIs, Data & Infrastructure"
 ---
 
 # Cloud Native Engineering Studio
