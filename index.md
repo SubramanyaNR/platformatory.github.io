@@ -1,5 +1,5 @@
 ---
-title: Platformatory
+title: Home
 layout: home
 description: Platformatory home page.
 intro_image: "images/illustrations/30496-min.jpg"
@@ -10,4 +10,4 @@ what_we_do: "We help enterprises define, design, co-create & scale modern digita
 
 # Cloud Native Engineering Studio
 
-At platformatory, we believe you need to think your cloud strategy beyond "lift & shift", towards a modern platform centric IT operating model. We look at ourselves as a _long haul_ consulting & engineering partner to CTO offices towards realizing value from modernization initiatives.
+In the digital age, technology is the foundation of growth. A product mindset, coupled with a platform oriented IT operating model in the cloud is the basis of modern digital operations. At Platformatory, we believe this is a state of perpetual evolution and CTIO offices require truly invested, strategic partners to deliver RoI.
