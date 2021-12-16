@@ -5,6 +5,6 @@ draft: false
 image: "images/team/vk.jpeg"
 jobtitle: "Co Founder"
 linkedinurl: "https://www.linkedin.com/in/venkateshkmurthy/"
-weight: 3
+weight: 2
 layout: team
 ---
