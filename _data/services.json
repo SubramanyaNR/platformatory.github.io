@@ -1,17 +1,17 @@
 [
   {
-    "title": "VMWare Tanzu",
-    "description": "Platform deployment & Day 2 services around VMWare's Hybrid Cloud Platform based on Kubernetes",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Apache Kafka&#174; Ecosystem & Event Streaming ",
+    "description": "Development and partner services for Kafka Streams, KSQL, Kafka Connect Plugins & Kafka clients at large.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
-    "title": "Confluent",
-    "description": "Adopting Kafka in the enterprise, incuding hybrid cloud deployments & operations",
+    "title": "Kong API Management",
+    "description": "Plugin development (on Lua / OpenResty, Python, Golang, Javascript PDKs), Service Mesh and API Gateway deployments",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Kong",
-    "description": "Integrated API Management & Service Mesh operations across heterogenous cloud providers & services",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Kubernetes & CNCF Ecosystem",
+    "description": "Kubernetes centric development & operations: Custom operators, CRs & Service Brokers & API Extensions",
+    "image": "images/features/noun_branding_1885335.svg"
   }
 ]
