@@ -66,13 +66,14 @@
 .service-content-wrapper {
   .service-summary {
     background: #ffffff;
-    padding: 40px 20px 20px;
+    padding: 0px 20px ;
     border-radius: 6px;
     text-align: center;
     height: 100%;
     box-shadow: 0px 0px 20px #d0d0d0;
     transition: all ease 1s;
     &:hover {
+      color:white;
       background: linear-gradient(to bottom, #0068a5 0%, #003367 100%);
       h2 {
         a {
@@ -83,7 +84,7 @@
     h2 {
       a {
         @include media-breakpoint-up(sm) {
-          padding: 0px 30px;
+          padding: 0px 0px;
         }
         text-align: center;
         display: inline-block;
