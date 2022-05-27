@@ -2,10 +2,11 @@
 title: "Full Stack Modernization"
 date: 2018-11-28T15:15:26+10:00
 featured: true
-weight: 3
+weight: 2
 layout: service
 summary: "Application Modernization is a full stack, full lifecycle problem requiring paradigm shifts across people, process & tooling. Platformatory brings the advance guard to make your team battle ready." 
 image: "../images/modernization.png"
+caption: Legacy rehaul for the modernizing enterprise, with a focus towards the cloud
 hash: "modernization"
 ---
 

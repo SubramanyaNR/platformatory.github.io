@@ -3,11 +3,11 @@ main:
     url: "/consulting/"
     weight: 0
   - name: "Engineering"
-    url: "/services/"
+    url: "/engineering/"
     weight: 2
-  - name: "OpenDevX"
-    url: "https://opendevx.io/"
-    weight: 2   
+    #  - name: "Solutions"
+    #url: "/solutions/"
+    #weight: 2   
   - name: "About"
     url: "/platformatory/"
     weight: 3

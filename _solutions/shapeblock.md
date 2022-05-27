@@ -1,8 +1,9 @@
 ---
-title: "Open Banking & Fintech Ecosystem"
+title: Event Sorcery
 date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 5
+caption: Use existing REST APIs as event sources and build a reactive architecture
 layout: service
 ---
 

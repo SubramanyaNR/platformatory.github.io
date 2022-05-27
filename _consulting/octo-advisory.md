@@ -1,13 +1,13 @@
 ---
-title: "Platform Strategy & Architecture"
+title: "CTO as a Service"
 date: 2018-11-28T15:14:54+10:00
 featured: true
-weight: 3
+weight: 1
 layout: service
 summary: Platform enabled enterprises outperform competitors on maturity indices, including IT agility, Customer Experience & Cost of operations. Platformatory can enable you to forge a strong cloud native backbone & platform definition fit to your business domain.
 image: "../images/landscaping.png"
-caption: Ground up operating model & technology enablement for IT & Platform teams
-hash: "platform-landscaping"
+caption: Managed technology office and leadership for early stage SaaS startups
+hash: "octo-advisory"
 ---
 
 The modern Digital Platform is a product meant to serve both  internal & external consumers. It needs to address the pressing concerns and standard use-cases across your product portfolio. Most often, a platform is characterized by a self service foundation of APIs, composable infrastructure, continuous delivery of cloud services and  data management layers. These enable product teams to innovate rapidly rather than reinventing the wheel.

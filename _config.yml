@@ -31,8 +31,10 @@ collections:
   consulting:
     output: true
   solutions:
-    output: true
+    output: false
   openings:
+    output: true
+  engineering:
     output: true  
 
 sass:

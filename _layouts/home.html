@@ -30,7 +30,8 @@ bodyClass: page-home
         <div class="col-md-12">
           <h2 class="section-title">Consulting</h2>	
           <div class="row">
-            {% for service in site.consulting %}
+            {% assign sorted_consulting = site.consulting | sort: 'weight' | reverse %}		  
+            {% for service in sorted_consulting %}
             <div class="col-12 col-sm-6 mb-1">
               <div class="row service-content-card">
                 <div class="service service-summary col-md-8">
@@ -38,6 +39,7 @@ bodyClass: page-home
                     <h2 class="service-title">
 			    <a href="{{site.baseurl}}consulting#{{service.hash}}">{{ service.title }}</a>
                     </h2>
+		    <span class="service-caption">{{ service.caption }}</span>
                   </div>
                   </div>
                   <div class="col-md-4 pt-md-4 pt-lg-2 pt-1">
@@ -67,7 +69,8 @@ bodyClass: page-home
   <div class="container pt-2 pt-md-4 pb-2 pb-md-8">
     <h2 class="section-title">Engineering Excellence</h2>	  
     <div class="row justify-content-start">
-      {% for service in site.services %}
+      {% assign sorted_engineering = site.engineering | sort: 'weight' | reverse %}	    
+      {% for service in sorted_engineering %}
       <div class="col-12 col-sm-6 col-lg-3 mb-1">
         <div class="service service-summary">
           <div class="service-content py-3">
@@ -75,8 +78,9 @@ bodyClass: page-home
               <img alt={{ page.title }} class="consult-intro-image" src="{{service.image}}" />
             </div>
             <h2 class="service-title">
-		    <a href="{{site.baseurl}}services#{{service.hash}}">{{ service.title }}</a>
+		    <a href="{{site.baseurl}}engineering#{{service.hash}}">{{ service.title }}</a>
             </h2>
+	    <span class="service-caption">{{ service.caption }}</span>
           </div>
         </div>
       </div>
@@ -84,7 +88,7 @@ bodyClass: page-home
     </div>
     <div class="row justify-content-center mt-2">
       <div class="col-auto">
-        <a class="button button-primary view-more-button" href="{{site.baseurl}}/services">Learn more about our engineering services</a>
+        <a class="button button-primary view-more-button" href="{{site.baseurl}}/engineering">Learn more about our engineering services</a>
       </div>
     </div>
   </div>
