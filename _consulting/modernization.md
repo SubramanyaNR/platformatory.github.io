@@ -20,7 +20,7 @@ In practice, most modernization initiatives tend to be focused only on the appli
 4. **Clarity of KPIs**: *Specify and make it objectives measurable. Make money, save money or reduce risk* 
 
 
-* <span class="icon-serv"><img src="../images/icons/boss.svg" /></span>Convince the Boss: Build a business case defense for why you need to be doing what you're doing.
-* <span class="icon-serv"><img src="../images/icons/roadmap.svg" /></span>Create a Roadmap: You could lift & shift, replatform or re-architect or embark on a green field journey. 
-* <span class="icon-serv"><img src="../images/icons/blueprint.svg" /></span>Deliver a 360° blueprint:  Devil is in the details. Disambiguate Architecture, scaling, economics & operations.
-* <span class="icon-serv"><img src="../images/icons/evidence.svg" /></span>Show empirical evidence: A proof of concept reduces risk & puts thoughts into action.
+* <span class="icon-serv text-center"><img src="../images/icons/boss.svg" /></span>Convince the Boss: Build a business case defense for why you need to be doing what you're doing.
+* <span class="icon-serv text-center"><img src="../images/icons/roadmap.svg" /></span>Create a Roadmap: You could lift & shift, replatform or re-architect or embark on a green field journey. 
+* <span class="icon-serv text-center"><img src="../images/icons/blueprint.svg" /></span>Deliver a 360° blueprint:  Devil is in the details. Disambiguate Architecture, scaling, economics & operations.
+* <span class="icon-serv text-center"><img src="../images/icons/evidence.svg" /></span>Show empirical evidence: A proof of concept reduces risk & puts thoughts into action.
