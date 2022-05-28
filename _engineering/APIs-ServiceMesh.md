@@ -11,8 +11,8 @@ hash: "apis-service-mesh"
 ---
 
 
-- <span class="icon-serv"><img src="../images/icons/slo.svg" /></span>API Gateways and Mesh Infrastructure: Based on Kong, Apache Apisix, Istio and Envoy 
-- <span class="icon-serv"><img src="../images/icons/scaling.svg" /></span>API Management & Service control: Onboard, build, secure, manage & govern APIs/Services
-- <span class="icon-serv"><img src="../images/icons/monitoring.svg" /></span>API Products and DevX: Build a developer foucsed ecosystem and monetize APIs
-- <span class="icon-serv"><img src="../images/icons/secops.svg" /></span>Custom Plugin Development with Lua, Golang and Web Assembly: Bespoke integrations and high performance plugins for Envoy and Kong 
+- <div class="text-center platform-strategy"><h2 class="api-service-title">API Gateways and Mesh Infrastructure</h2><span class="icon-serv py-2"><img src="../images/icons/slo.svg" /></span> Based on Kong, Apache Apisix, Istio and Envoy</div> 
+- <div class="text-center platform-strategy"><h2 class="api-service-title">API Management & Service control</h2><span class="icon-serv py-2"><img src="../images/icons/scaling.svg" /></span> Onboard, build, secure, manage & govern APIs/Services</div>
+- <div class="text-center platform-strategy"><h2 class="api-service-title">API Products and DevX</h2><span class="icon-serv py-2"><img src="../images/icons/monitoring.svg" /></span> Build a developer foucsed ecosystem and monetize APIs</div>
+- <div class="text-center platform-strategy"><h2 class="api-service-title">Custom Plugin Development with Lua, Golang and Web Assembly</h2><span class="icon-serv py-2"><img src="../images/icons/secops.svg" /></span> Bespoke integrations and high performance plugins for Envoy and Kong </div>
 

@@ -14,8 +14,8 @@ Developing modern products or rewriting legacy is a full stack, full lifecycle e
 
 Some universal first principles that hold: 
 
-- <span class="icon-serv"><img src="../images/icons/ddd.svg" /></span>**Domain Driven Design**: Understand your product's domain & context map
-- <span class="icon-serv"><img src="../images/icons/services.svg" /></span>**Microservices & Functions**: Approach models towards cloud native applications in general: Distributable and scalable
-- <span class="icon-serv"><img src="../images/icons/apis.svg" /></span>**Data & APIs**: Your services provide an interface to the external world. They also integrate & generate data. These are first class product concerns:
-- <span class="icon-serv"><img src="../images/icons/microfrontends.svg" /></span>**Microfrontends**: Small is beautiful. This applies to your App experience too.
+- <div class="text-center platform-strategy"><h2 class="product_eng_title">Domain Driven Design</h2><span class="icon-serv pb-2"><img src="../images/icons/ddd.svg" /></span> Understand your product's domain & context map</div>
+- <div class="text-center platform-strategy"><h2 class="product_eng_title">Microservices & Functions</h2><span class="icon-serv pb-2"><img src="../images/icons/services.svg" /></span> Approach models towards cloud native applications in general: Distributable and scalable</div>
+- <div class="text-center platform-strategy"><h2 class="product_eng_title">Data & APIs</h2><span class="icon-serv pb-2"><img src="../images/icons/apis.svg" /></span> Your services provide an interface to the external world. They also integrate & generate data. These are first class product concerns:</div>
+- <div class="text-center platform-strategy"><h2 class="product_eng_title">Microfrontends</h2><span class="icon-serv pb-2"><img src="../images/icons/microfrontends.svg" /></span> Small is beautiful. This applies to your App experience too.</div>
 
