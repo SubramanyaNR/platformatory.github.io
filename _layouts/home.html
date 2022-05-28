@@ -36,7 +36,7 @@ bodyClass: page-home
               <div class="row justify-content-center service-content-card">
                 <div class="service service-summary text-start ">
                   <div class="service-content">
-                    <h2 class="service-title m-0">
+                    <h2 class="service-title m-0 text-center">
 			    <a href="{{site.baseurl}}consulting#{{service.hash}}">{{ service.title }}</a>
                     </h2>
                   </div>
@@ -46,7 +46,7 @@ bodyClass: page-home
                       <img alt={{ page.title }} class="consult-intro-image" src="{{service.image}}" />
                     </div>
                   </div>
-                  <p class="service-caption text-white m-0">{{ service.caption }}</p>
+                  <p class="service-caption text-white text-center m-0">{{ service.caption }}</p>
                 </div>
               </div>
             {% endfor %}
