@@ -25,7 +25,8 @@ bodyClass: page-services-list
       <div class="left-panel-sticky">
         <h4>Browse</h4>
         <ul>
-          {% for consulting in site.consulting %}      
+          {% assign sorted_consulting = site.consulting | sort: 'weight' | reverse %}		
+          {% for consulting in sorted_consulting %}      
             <li><a href="#{{ consulting.hash }}">{{ consulting.title }} </a></li>
           {% endfor %}
         </ul>
@@ -33,7 +34,7 @@ bodyClass: page-services-list
       </div>
     </div>
     <div class="col-12 col-md-9 mb-md-3 pt-3 p-lg-3">
-      {% for consulting in site.consulting %}
+      {% for consulting in sorted_consulting %}
       <div class="service service-summary" id="{{ consulting.hash }}">
           <div class="service-content">
             <h2 class="service-title">
