@@ -10,9 +10,12 @@ caption: Revitalize APIs through productization and API management at the core
 hash: "apis-service-mesh"
 ---
 
+They say you are what you eat; The same applies to (micro)services: You are the interface that you provide; New age architectures have resulted in an explosion of interface endpoints that require management of cross cutting concerns -- security, traffic management, monitoring and much more. The quality of your APIs (managed like a product), in conjunction with the aforementioned concerns is a defining measure of how robust your platform architecture is. Not surprisingly, API management also sits at the ingress point of all FaaS and a whole host of related concerns.
 
-- <div class="text-center platform-strategy"><h2 class="api-service-title">API Gateways and Mesh Infrastructure</h2><span class="icon-serv py-2"><img src="../images/icons/slo.svg" /></span> Based on Kong, Apache Apisix, Istio and Envoy</div> 
-- <div class="text-center platform-strategy"><h2 class="api-service-title">API Management & Service control</h2><span class="icon-serv py-2"><img src="../images/icons/scaling.svg" /></span> Onboard, build, secure, manage & govern APIs/Services</div>
-- <div class="text-center platform-strategy"><h2 class="api-service-title">API Products and DevX</h2><span class="icon-serv py-2"><img src="../images/icons/monitoring.svg" /></span> Build a developer foucsed ecosystem and monetize APIs</div>
-- <div class="text-center platform-strategy"><h2 class="api-service-title">Custom Plugin Development with Lua, Golang and Web Assembly</h2><span class="icon-serv py-2"><img src="../images/icons/secops.svg" /></span> Bespoke integrations and high performance plugins for Envoy and Kong </div>
+We assist customers to manage API platform & product concerns in the context of modern software architecture and buildig a sustainable digital ecosystem that caters to developers.
+
+- <div class="text-center platform-strategy"><h2 class="api-service-title">Modern API Management</h2><span class="icon-serv py-2"><img src="../images/icons/slo.svg" /></span>Cloud native Gateway & Mesh infrastructure to secure and manage APIs at scale</div> 
+- <div class="text-center platform-strategy"><h2 class="api-service-title">API Ops & Observability</h2><span class="icon-serv py-2"><img src="../images/icons/scaling.svg" /></span>API Monitoring and Performance management (including Analytics, Tracing) and SLO optimization</div>
+- <div class="text-center platform-strategy"><h2 class="api-service-title">API Productization & Monetization</h2><span class="icon-serv py-2"><img src="../images/icons/monitoring.svg" /></span>Custom API Product Development with an outside-in, developer centric view</div>
+- <div class="text-center platform-strategy"><h2 class="api-service-title">Custom plugins and extension development</h2><span class="icon-serv py-2"><img src="../images/icons/secops.svg" /></span> Bespoke integrations and high performance plugins for Envoy and Kong </div>
 

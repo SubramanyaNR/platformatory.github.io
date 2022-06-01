@@ -8,5 +8,4 @@ summary: "We're reachable on a vareity of protocols & transports. We prefer asyn
 
 # Say Hello
 
-We're based in Bengaluru and  San Francisco (although we work remotely). If you're looking for a partnership, we're available for a conversation in real life at both places.You can also book a video chat <insert video conferencing tool> or talk to us asynchronously via email. 
-
+We're an emerging global consultancy with a niche around platform & product engineering. We're hiring in the US, India and EMEA for 100% remote roles. If you're looking for a partnership (or a career opportunity), get in touch and we'll talk.

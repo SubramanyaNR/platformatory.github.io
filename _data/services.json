@@ -1,17 +1,17 @@
 [
   {
     "title": "Apache Kafka&#174; Ecosystem & Event Streaming ",
-    "description": "Development and partner services for Kafka Streams, KSQL, Kafka Connect Plugins & Kafka clients at large.",
+    "description": "Global scale Apache Kafka clusters and stream processing applications at Gigabyte scale throughput and sub-second latencies",
     "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
-    "title": "Kong API Management",
-    "description": "Plugin development (on Lua / OpenResty, Python, Golang, Javascript PDKs), Service Mesh and API Gateway deployments",
+    "title": "Kong, Envoy & Apache Apisix",
+    "description": "Comprehensive service control and high performance API data plane to for web scale traffic",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Kubernetes & CNCF Ecosystem",
-    "description": "Kubernetes centric development & operations: Custom operators, CRs & Service Brokers & API Extensions",
+    "description": "Expert driven infrastructure & application assistance for Kubernetes operations across public, private and hybrid cloud setting",
     "image": "images/features/noun_branding_1885335.svg"
   }
 ]

@@ -62,7 +62,7 @@ bodyClass: page-services-list
                         <p class="team-description">{{ team.jobtitle }}</p>
                     </div>
                     <div class="social-lists"><a href="http://twitter.com/platformatory" target="_blank"><img src="/images/twitter.svg"></a>
-                    <a href="{{ team.linkedinurl }}" target="_blank"><img src="/images/linkedin.svg"></a><a href="https://github.com/p6" target="_blank"><img src="/images/social/github.svg"></a></div>
+                    <a href="{{ team.linkedinurl }}" target="_blank"><img src="/images/linkedin.svg"></a><a href="https://github.com/platformatory" target="_blank"><img src="/images/social/github.svg"></a></div>
                 </div>
             </div>
           {% endfor %}
@@ -70,7 +70,7 @@ bodyClass: page-services-list
       </div>
 
       <div class="container mt-4 pb-3 openings" id="openings">
-        <h2 class="section-title">Openings</h2>
+        <!--h2 class="section-title">Openings</h2-->
         <div class="d-xl-flex">
           {% assign openings = site.openings | sort: "weight" %}
           {% for opening in openings %}

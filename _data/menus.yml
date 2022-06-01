@@ -1,4 +1,7 @@
 main:
+  - name: "Home"
+    url: "/"
+    weight: -1    
   - name: "Consulting"
     url: "/consulting/"
     weight: 0
@@ -14,6 +17,9 @@ main:
   - name: "Get in touch"
     url: "/contact/"
     weight: 4
+    #  - name: "Blog"
+    #url: "/blog"
+    #weight: 5    
 footer:
   - name: "Home"
     url: "/"

@@ -1,4 +1,4 @@
-# Culture lies in the code
+# Platform & Product Engineering Boutique
 
 We're a niche software consultancy building a global footprint. Our mission is to drive meaningful change at the heart of enterprise digital transformation initiatives.
 

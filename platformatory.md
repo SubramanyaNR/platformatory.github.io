@@ -6,6 +6,6 @@ bodyClass: page-about
 intro_image: "images/banners/10493.png"
 ---
 
-# CTO Office as a Service
+# Code and culture.
 
-We're a collective of technlogists & innovators in the pursuit of hard engineering problems at the heart of enterprises. Our niche is high pedigree software consulting combined with a practical & incremental approach to change.
+Characterized by laziness, impatience and hubris. Our core principle is to go deep, go broad and solve business problems with technology. Competence, passion and empathy and an ethic towards getting stuff done and done right.
