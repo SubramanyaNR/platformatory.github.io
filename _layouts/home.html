@@ -32,7 +32,7 @@ bodyClass: page-home
           <div class="row">
             {% assign sorted_consulting = site.consulting | sort: 'weight' | reverse %}		  
             {% for service in sorted_consulting %}
-            <div class="col-12 col-sm-4 mb-1 ">
+            <div class="col-12 col-sm-4 mb-1">
               <div class="row justify-content-center service-content-card">
                 <div class="service service-summary text-start ">
                   <div class="service-content">
@@ -46,7 +46,7 @@ bodyClass: page-home
                       <img alt={{ page.title }} class="consult-intro-image" src="{{service.image}}" />
                     </div>
                   </div>
-                  <p class="service-caption text-white text-center m-0">{{ service.caption }}</p>
+                  <p class="service-caption text-center m-0">{{ service.caption }}</p>
                 </div>
               </div>
             {% endfor %}

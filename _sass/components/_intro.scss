@@ -81,15 +81,22 @@
           color: #ffffff;
           }
         }
+        .service-caption-excellence{
+          color:#fff;
+        }
       }
     h2 {
       a {
+        color:#103080;
         @include media-breakpoint-up(sm) {
           padding: 0px 0px;
         }
         text-align: center;
         display: inline-block;
       }
+    }
+    .service-caption-excellence{
+      color:#103080;
     }
 
     .icon-lg {

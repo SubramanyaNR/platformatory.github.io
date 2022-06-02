@@ -1,7 +1,9 @@
 .consult-content-wrapper {
   background-color: #f5f5f5 !important;
+  
   .service-content-card {
-    border: solid 10px #f5f5f5;
+    // border: solid 10px #f5f5f5;
+
     @include media-breakpoint-up(xl){
       height: 370px;
     }
@@ -9,13 +11,25 @@
       height: 340px;
     }
     
-    
-    background: linear-gradient(to left, #61794b 0%, #6bb202 100%);
+    box-shadow: 0px 0px 5px #d0d0d0;
+    color:#103080;
     padding: 20px 20px;
     @include media-breakpoint-up(lg) {
       padding: 20px 20px;
     }
-    &:hover {background: #31394d; }
+    &:hover {background: linear-gradient(to left, #61794b 0%, #6bb202 100%);color: #fff;
+    .service-content{
+      .service-title{
+        a{color:#fff;}
+      }
+    }
+    .service-caption{
+      color:white;
+    }
+    }
+    .service-caption{
+      color:#103080; 
+    }
     .service-content {
       padding: 0px 0px;
       @include media-breakpoint-up(md) {
@@ -29,14 +43,20 @@
       align-items: center;
       .service-title {
         a {
-          color: #fff;
+          color: #103080;
+          @include media-breakpoint-up(xl) {
+            font-size: 35px;
+            font-weight: bold;
+          }
           @include media-breakpoint-up(lg) {
             max-width: 50%;
             font-size: 32px;
             font-family: ui-sans-serif;
             padding: 0;
           }
+          
         }
+        
       }
     }
     
@@ -51,16 +71,7 @@
   }
 }
 
-.service-title {
-  @include media-breakpoint-up(xl) {
-    font-size: 35px;
-    font-weight: bold;
-  }
-  a {
-    color: #103080;
-    // font-size: 18px;
-  }
-}
+
 
 
 

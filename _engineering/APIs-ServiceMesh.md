@@ -5,7 +5,7 @@ featured: true
 weight: 2
 layout: service
 summary: "Industrialize cloud native platform SLOs & scale your DevSecOps in an SRE model."
-image: "images/services/operation.png"
+image: "images/services/chip.png"
 caption: Revitalize APIs through productization and API management at the core
 hash: "apis-service-mesh"
 ---
