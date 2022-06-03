@@ -14,10 +14,10 @@ The modern Digital Platform is a product meant to serve both  internal & externa
 
 So, how or where does a platform journey begin? We help you find your way.
 
-* <div class="text-center platform-strategy"><h2 >Survey the ground</h2><span class="icon-serv py-2"><img src="../images/icons/survey.svg" /></span> Assess your present portfolio of applications & IT operating model. Calibrate risks.</div> 
-* <div class="text-center platform-strategy"><h2 class="text-center">Facilitate vision & alignment</h2><span class="icon-serv py-2"><img src="../images/icons/facilitate.svg" /></span> Define what you may need (or not need), across Engineering, IT, DevOps, Security & Digital</div>
-* <div class="text-center platform-strategy"><h2 class="text-center">Navigate your options</h2><span class="icon-serv py-2"><img src="../images/icons/navigate.svg" /></span> Choose to build (on open-source) or buy COTS platform stack. Understand cost, pros/cons and tradeoffs</div>
-* <div class="text-center platform-strategy"><h2 class="text-center">Actionable plan</h2><span class="icon-serv py-2"><img src="../images/icons/action.svg" /></span> Build a triaged backlog to kickstart your platform product.</div>
+* <div class="text-center platform-strategy"><h2 >Survey the ground</h2><span class="icon-serv py-2"><img src="../images/icons/mapping.png" /></span> Assess your present portfolio of applications & IT operating model. Calibrate risks.</div> 
+* <div class="text-center platform-strategy"><h2 class="text-center">Facilitate vision & alignment</h2><span class="icon-serv py-2"><img src="../images/icons/help.png" /></span> Define what you may need (or not need), across Engineering, IT, DevOps, Security & Digital</div>
+* <div class="text-center platform-strategy"><h2 class="text-center">Navigate your options</h2><span class="icon-serv py-2"><img src="../images/icons/compass.png" /></span> Choose to build (on open-source) or buy COTS platform stack. Understand cost, pros/cons and tradeoffs</div>
+* <div class="text-center platform-strategy"><h2 class="text-center">Actionable plan</h2><span class="icon-serv py-2"><img src="../images/icons/action-plan.png" /></span> Build a triaged backlog to kickstart your platform product.</div>
 
 
 
