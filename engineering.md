@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Accelerate achieving platform & product engineering goals.
 
-a-gile squads to deliver impact starting day zero.
+10X (small a) agile engineering squads to deliver impact starting day zero.
