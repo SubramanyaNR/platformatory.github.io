@@ -76,4 +76,47 @@ body {
 
 .hbspt-form iframe {
    width: 100% !important;
-} 
+}
+
+/* new stuff for event & publications */
+.events-grid, .publications-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.event-item, .publication-item {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    max-width: 320px;
+    margin: 0 10px 20px;
+    text-align: center;
+
+    a {
+        display: inline-block;
+        margin-top: 10px;
+        padding: 5px 15px;
+        background-color: #007BFF;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 3px;
+
+        &:hover {
+            background-color: #0056b3;
+        }
+    }
+
+    iframe {
+        max-width: 100%;
+        margin: 15px 0;
+    }
+}
+
+.event-type, .event-category, .publication-item .authors {
+    font-style: italic;
+    color: #555;
+}
+
