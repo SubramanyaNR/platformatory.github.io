@@ -10,4 +10,3 @@ mode: virtual
 ---
 
 This is a detailed description of the event. It can span multiple lines and include other markdown elements.
-
