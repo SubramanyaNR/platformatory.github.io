@@ -1,6 +1,12 @@
 ---
 layout: default
-title: Publications
+name: Publications
+download_link: https://github.com/p6
+recording_link: https://youtube.com
+event_reference: http://platformatory.io/events/foo
+google_slides: http://slides.google.com/
+url: http://grahana.net
+authors: Avinash U, Pavan K
 ---
 
 <h1>Publications</h1>
@@ -27,4 +33,3 @@ title: Publications
         </div>
     {% endfor %}
 </div>
-
