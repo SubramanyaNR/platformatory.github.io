@@ -37,7 +37,7 @@ title: Events
                         <p class="m-0 col-10 p-0 text-capitalize">{{ event.category }}</p>
                     </div>
                         <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0" src="/images/event/ticket.png" alt="ticket icon"></div>
-                        <p class="m-0 col-10 p-0 text-capitalize">{{ event.event_type }}</p>
+                        <p class="m-0 col-10 p-0 text-capitalize">{{ event.type }}</p>
                     </div>
                         <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0" src="/images/event/deal.png" alt="partner icon"></div>
                             <p class="m-0 col-10 p-0">{{ event.partners }}</p>
@@ -48,7 +48,8 @@ title: Events
                             {% if event.description %}
                             <p class="m-0 ">{{event.description}}</p>
                             {% endif %}
-                            <a href="{{ event.url }}">Read more</a>
+                            <!-- <a href="{{ event.url }}">Read more</a> -->
+                            <a href="{{ event.link }}" target="_blank">Register</a>
                         </div>
                         <!-- {{event_day}}
                         <strong>{{ event.title }}</strong><br>
@@ -96,7 +97,7 @@ title: Events
                         <p class="m-0 col-10 p-0 text-capitalize">{{ event.category }}</p>
                     </div>
                         <div class="row mx-0 align-items-center" ><div class="col-2  p-0"><img class=" p-0" style="height: 26px;" src="/images/event/ticket.png" alt=""></div>
-                        <p class="m-0 col-10 p-0 text-capitalize">{{ event.event_type }}</p>
+                        <p class="m-0 col-10 p-0 text-capitalize">{{ event.type }}</p>
                     </div>
                         <div class="row mx-0 align-items-center" ><div class="col-2  p-0"><img class=" p-0" style="height: 26px;" src="/images/event/deal.png" alt=""></div>
                             <p class="m-0 col-10 p-0">{{ event.partners }}</p>
@@ -107,7 +108,7 @@ title: Events
                             {% if event.description %}
                             <p class="m-0 ">{{event.description}}</p>
                             {% endif %}
-                            <a href="{{ event.url }}">Read more</a>
+                            <!-- <a href="{{ event.url }}">Read more</a> -->
                         </div>
                         <!-- {{event_day}}
                         <strong>{{ event.title }}</strong><br>
