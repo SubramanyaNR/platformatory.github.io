@@ -33,7 +33,6 @@ In this hands-on workshop, we'll introduce you to the world of API Gateways and 
 
 ### Prerequisites
 
-
 - Laptop for hands-on
 - Docker and docker-compose (Strictly not necessary)
 - If using Windows, we recommend WSL(https://learn.microsoft.com/en-us/windows/wsl/install) for the hands-on

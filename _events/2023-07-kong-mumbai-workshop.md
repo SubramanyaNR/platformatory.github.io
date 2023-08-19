@@ -26,10 +26,10 @@ In this hands-on workshop, we'll introduce you to the world of API Gateways and 
 
 | Name | Speaker | Start Time | End Time | Presentation | Recording |
 | --- | --- | --- | --- | --- | --- |
-| Welcome and Networking |  | 9:15 AM | 9:30 AM |  |  |
-| Introduction to Kong and API Gateways | Pavan Keshavamurthy | 9:30 AM | 10:00 AM | [Slideshare](https://www.slideshare.net/AvinashUpadhyaya3/kong-api-gatewaypdf){:target="_blank"} |  |
-| Hands-on workshop on getting started with Kong | Avinash Upadhyaya | 10:00 AM | 12:00 PM |  |  |
-| Lunch & Networking |  | 12:00 PM | 12:30 PM |  |  |
+| Welcome and Networking |  | 10:00 AM | 10:30 AM |  |  |
+| Introduction to Kong and API Gateways | Pavan Keshavamurthy | 10:30 AM | 11:00 AM | [Slideshare](https://www.slideshare.net/AvinashUpadhyaya3/kong-api-gatewaypdf){:target="_blank"} |  |
+| Hands-on workshop on getting started with Kong | Avinash Upadhyaya | 11:00 AM | 1:00 PM |  |  |
+| Lunch & Networking |  | 1:00 PM | 2:00 PM |  |  |
 
 ### Prerequisites
 

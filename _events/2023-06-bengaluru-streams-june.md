@@ -4,6 +4,7 @@ title: "Bangalore Streams meetup - June 2023"
 date: 2023-06-17
 time: 9:30am - 2:30pm
 location: Microsoft Reactor, Bengaluru
+address: Vigyan 1st floor, 9, Lavelle Road, Ashok Nagar, Bengaluru, Karnataka 560001
 category: meetup
 type: free
 partners: StarTree, Microsoft Reactor

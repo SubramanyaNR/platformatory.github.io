@@ -2,40 +2,38 @@
 layout: event
 title: "April Kong Bengaluru Meetup"
 date: 2023-04-29
+time: 10:00am - 2:00pm
 location: Razorpay, Bengaluru
+address: 8th Floor, SJR Cyber, 22 Laskar Hosur Road, Adugodi, Bengaluru, 560030
 category: meetup
 type: free
 partners: Kong, Razorpay
 mode: In-Person
 description: Quaterly meetup of local Kong enthusiasts in Bengaluru
+link: https://www.meetup.com/kong-bengaluru/events/292445616/
+map_link: https://goo.gl/maps/N3Wc5XVWVyn1LhkW9
 ---
 
+<div class="about">
 Kong is the cloud connectivity company for API & Microservices management. We are building a community of API & Microservices enthusiasts in Bengaluru through meetups.
 
 Join us in our upcoming in-person meetup in Bengaluru in collaboration with Platformatory Labs, as we discuss API Gateways, Service Meshes, and all things Cloud Native. We have some exciting talks lined up and as usual, we'll have some great networking opportunities, trivia, swag and a tasty lunch!
+</div>
 
-**📅 When: April 29 2023 10:30am - 2:00pm**
+### Schedule
 
-**📌Where:** Razorpay Software Private Limited
-**🗺 Directions:** https://goo.gl/maps/N3Wc5XVWVyn1LhkW9 (8th Floor, SJR Cyber, 22 Laskar Hosur Road, Adugodi, Bengaluru, 560030)
+| Name | Speaker | Start Time | End Time | Presentation | Recording |
+| --- | --- | --- | --- | --- | --- |
+| Welcome and registration |  | 10:00 AM | 10:45 AM |  |  |
+| Full-fledged Kong's Setup : The Other Way | Naman Bajpayi, Palo Alto Networks | 10:45 AM | 11:15 AM |  |  |
+| Web Assembly, Kong and building proxy plugins for the future | Pavan Keshavamurthy, Platformatory | 11:20 AM | 11:50 AM |  |  |
+| Kong Trivia |  | 11:50 AM | 12:10 PM |  |  |
+| Abuse protection and ensuring QoS for the clients | Manjunatha Shetty H, Razorpay | 12:15 PM | 12:45 PM |  |  |
+| Closing note |  | 12:45 PM | 1:00 PM |  |  |
+| Lunch |  | 1:00 PM | 2:00 PM |  |  |
 
-**🕒 Schedule : 10:30am-2:00pm**
 
-10:00am-10:45am: Welcome and networking
-
-10:45am-11:15am: Full-fledged Kong's Setup : The Other Way by Naman Bajpayi, Software engineer @ Palo alto networks
-
-11:20am-11:50am: Web Assembly, Kong and building proxy plugins for the future by Pavan Keshavamurthy, Founder and CTO at Platformatory
-
-11:50am-12:10pm: Kong Trivia!
-
-12:15pm:12:45pm: Abuse protection and ensuring QoS for the clients by Manjunatha Shetty H, SDE 3 at Razorpay
-
-12:45pm-1:00pm: Closing note
-
-1:00pm-2:00pm: Lunch
-
-**🗣Talks:**
+### Talks
 
 **Full-fledged Kong's Setup : The Other Way**
 
@@ -59,6 +57,8 @@ About the talk: - Rate limiter at scale
 - How we isolate malicious user/ requests to maintain QoS
 
 
+### Speakers
 
-Learn more and register on [meetup](https://www.meetup.com/kong-bengaluru/events/291180102/).
-
+- Naman Bajpayi - Software engineer @ palo alto networks
+- Pavan Keshavamurthy - CTO & Co-founder @ Platformatory.io
+- Manjunatha Shetty H - SDE 3 at Razorpay, working with API Gateway Team https://www.linkedin.com/in/shettyh
