@@ -11,13 +11,13 @@ title: Events
         {% for event in site.events %}
             {% assign event_date_str = event.date | date: "%Y-%m-%d" %}
             {% assign current_date_str = site.time | date: "%Y-%m-%d" %}
-    
             {% if event_date_str >= current_date_str %}
                 <div class="event-card">
                     <div class="row mx-0 event-top-position">
                         <div class="bg-success d-flex justify-content-center col-3 align-items-center flex-column event-date-path" >
                             <h6 class="m-0 text-white font-weight-bold">{{ event.date | date: '%d'}}</h6>
                             <h6 class="m-0 text-white text-uppercase font-weight-bold">{{ event.date | date: '%b' | upcase }}</h6>
+                            <h6 class="m-0 text-white text-uppercase font-weight-bold">{{ event.date | date: '%Y' | upcase }}</h6>
                         </div>
                         <div class=" d-flex col-9 p-0 justify-content-center align-items-center">
                             <h5 class="m-0 p-1 event-card-title ">{{event.title}}</h5>
@@ -27,9 +27,9 @@ title: Events
                         <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0" src="/images/event/location.png" alt="location icon"></div>
                             <p class="m-0 col-10 p-0">{{event.location}}</p>
                         </div>
-                        <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0" src="/images/event/calendar.png" alt="calender icon"></div>
+                        <!-- <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0" src="/images/event/calendar.png" alt="calender icon"></div>
                             <p class="m-0 col-10 p-0">{{ event.date | date_to_string }}</p>
-                        </div>
+                        </div> -->
                         <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0" src="/images/event/{{event.mode}}.png" alt="{{event.mode}} icon"></div>
                             <p class="m-0 col-10 p-0 text-capitalize">{{ event.mode }}</p>
                         </div>
@@ -48,8 +48,8 @@ title: Events
                             {% if event.description %}
                             <p class="m-0 ">{{event.description}}</p>
                             {% endif %}
-                            <!-- <a href="{{ event.url }}">Read more</a> -->
-                            <a href="{{ event.link }}" target="_blank">Register</a>
+                            <a href="{{ event.url }}">Read more</a>
+                            <!-- <a href="{{ event.link }}" target="_blank">Register</a> -->
                         </div>
                         <!-- {{event_day}}
                         <strong>{{ event.title }}</strong><br>
@@ -71,35 +71,35 @@ title: Events
         {% for event in site.events %}
             {% assign event_date_str = event.date | date: "%Y-%m-%d" %}
             {% assign current_date_str = site.time | date: "%Y-%m-%d" %}
-    
             {% if event_date_str < current_date_str %}
                 <div class="event-card">
-                    <div class="row mx-0" style="height: 60px;">
-                        <div class="bg-success d-flex justify-content-center col-3 align-items-center flex-column" style=" width:70px">
+                    <div class="row mx-0 event-top-position" >
+                        <div class="bg-warning d-flex justify-content-center col-3 align-items-center flex-column event-date-path" >
                             <h6 class="m-0 text-white font-weight-bold">{{ event.date | date: '%d'}}</h6>
                             <h6 class="m-0 text-white text-uppercase font-weight-bold">{{ event.date | date: '%b' | upcase }}</h6>
+                            <h6 class="m-0 text-white text-uppercase font-weight-bold">{{ event.date | date: '%Y' | upcase }}</h6>
                         </div>
                         <div class="bg-light d-flex col-9 p-0 justify-content-center align-items-center">
                             <h5 class="m-0 p-1 event-card-title ">{{event.title}}</h5>
                         </div>
                     </div>
                     <div class="event-item">
-                        <div class="row mx-0 align-items-center" ><div class="col-2  p-0"><img class=" p-0" style="height: 26px;" src="/images/event/location.png" alt=""></div>
+                        <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0"  src="/images/event/location.png" alt=""></div>
                             <p class="m-0 col-10 p-0">{{event.location}}</p>
                         </div>
-                        <div class="row mx-0 align-items-center" ><div class="col-2  p-0"><img class=" p-0" style="height: 26px;" src="/images/event/calendar.png" alt=""></div>
+                        <!-- <div class="row mx-0 align-items-center" ><div class="col-2  p-0"><img class="event-icons p-0"  src="/images/event/calendar.png" alt=""></div>
                             <p class="m-0 col-10 p-0">{{ event.date | date_to_string }}</p>
-                        </div>
-                        <div class="row mx-0 align-items-center" ><div class="col-2  p-0"><img class=" p-0" style="height: 26px;" src="/images/event/{{event.mode}}.png" alt=""></div>
+                        </div> -->
+                        <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0"  src="/images/event/{{event.mode}}.png" alt=""></div>
                             <p class="m-0 col-10 p-0 text-capitalize">{{ event.mode }}</p>
                         </div>
-                        <div class="row mx-0 align-items-center" ><div class="col-2  p-0"><img class=" p-0" style="height: 26px;" src="/images/event/{{event.category}}.png" alt=""></div>
+                        <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0"  src="/images/event/{{event.category}}.png" alt=""></div>
                         <p class="m-0 col-10 p-0 text-capitalize">{{ event.category }}</p>
                     </div>
-                        <div class="row mx-0 align-items-center" ><div class="col-2  p-0"><img class=" p-0" style="height: 26px;" src="/images/event/ticket.png" alt=""></div>
+                        <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0"  src="/images/event/ticket.png" alt=""></div>
                         <p class="m-0 col-10 p-0 text-capitalize">{{ event.type }}</p>
                     </div>
-                        <div class="row mx-0 align-items-center" ><div class="col-2  p-0"><img class=" p-0" style="height: 26px;" src="/images/event/deal.png" alt=""></div>
+                        <div class="row mx-0 align-items-center event-items-grid" ><div class="col-2  p-0"><img class="event-icons p-0"  src="/images/event/deal.png" alt=""></div>
                             <p class="m-0 col-10 p-0">{{ event.partners }}</p>
                         </div>
                         
@@ -108,7 +108,7 @@ title: Events
                             {% if event.description %}
                             <p class="m-0 ">{{event.description}}</p>
                             {% endif %}
-                            <!-- <a href="{{ event.url }}">Read more</a> -->
+                            <a href="{{ event.url }}">Read more</a>
                         </div>
                         <!-- {{event_day}}
                         <strong>{{ event.title }}</strong><br>
