@@ -14,9 +14,9 @@ main:
   - name: "Events"
     url: "/events/"
     weight: 4
-  - name: "Publications"
-    url: "/publications/"
-    weight: 5    
+  # - name: "Publications"
+  #   url: "/publications/"
+  #   weight: 5    
   - name: "Blog"
     url: "/blog"
     weight: 6

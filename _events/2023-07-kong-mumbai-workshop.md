@@ -16,11 +16,10 @@ map_link: https://goo.gl/maps/wHfStWC3UizAsciSA
 
 <div class="about">
 Kong API Gateway is a powerful open-source tool that helps you manage and secure your APIs. With Kong, you can easily control traffic, set up authentication and authorization, and implement rate limiting and caching for your APIs. Kong is also the creators of Kuma, an open source service mesh and Sandbox project of CNCF. We are building a community of API & Microservices enthusiasts in Mumabi through meetups.🦍
-
+<br><br>
 Join us in our first in-person meetup in Mumbai, as we discuss API Gateways, Service Meshes, and all things Cloud Native. We have some exciting talks lined up, along with some great networking opportunities, trivia, swag👕!
-
+<br><br>
 In this hands-on workshop, we'll introduce you to the world of API Gateways and their significance in a microservice based architecture. We'll look at the Kong API Gateway and what makes it an excellent solution for managing and securing APIs at scale. The workshop will include setting up a Kong Gateway locally using Docker and explore the Kong ecosystem through its plugins.
-
 </div>
 
 ### Schedule
@@ -40,8 +39,8 @@ In this hands-on workshop, we'll introduce you to the world of API Gateways and 
 
 ### Speakers
 
-- {:.speaker-name} Pavan Keshavamurthy - CTO at Platformatory
-- {:.speaker-name} Avinash Upadhyaya - Platform Engineer at Platformatory
+- {:.speaker-name} Pavan Keshavamurthy <br> <span class="speaker-description"> CTO at Platformatory</span>
+- {:.speaker-name} Avinash Upadhyaya <br> <span class="speaker-description"> Platform Engineer at Platformatory</span>
 
 ### Agenda
 

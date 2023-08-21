@@ -16,9 +16,8 @@ map_link: https://goo.gl/maps/khjwkvjpQzmmFoKY8
 
 <div class="about">
 Join us in our first in-person hands-on workshop in Bengaluru as we learn about Service Mesh and Kong's open source implementation - Kuma. As usual, we'll have some great networking opportunities, swag and some tasty snacks!
-
+<br><br>
 Kuma is an open source multi-zone service mesh for containers, Kubernetes and VMs. It is built with Envoy as a proxy and is a CNCF Sandbox project. During the workshop, we'll introduce the concept of service mesh and help you get started with Kuma in a hands-on practical session. The workshop is intended for people with various experiences and backgrounds but are new to Kuma and the world of service meshes.
-
 </div>
 
 ### Schedule
@@ -43,5 +42,5 @@ Kuma is an open source multi-zone service mesh for containers, Kubernetes and VM
 
 ### Speakers
 
-- {:.speaker-name} Pavan Keshavamurthy - CTO & Founder at Platformatory
-- {:.speaker-name} Avinash Upadhyaya - Platform Engineer at Platformatory
+- {:.speaker-name} Pavan Keshavamurthy <br> <span class="speaker-description"> CTO & Founder at Platformatory</span>
+- {:.speaker-name} Avinash Upadhyaya <br> <span class="speaker-description"> Platform Engineer at Platformatory</span>

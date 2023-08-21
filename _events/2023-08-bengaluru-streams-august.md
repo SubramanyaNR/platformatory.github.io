@@ -4,6 +4,7 @@ title: "Bangalore Streams meetup - August 2023"
 date: 2023-08-26
 time: 9:30am - 2:30pm
 location: CRED Aero, Bengaluru
+address: 769 and 770, 100 Feet Road, 12th Main, HAL 2nd Stage, Indiranagar, Bengaluru 560038
 category: meetup
 type: free
 partners: CRED
@@ -15,24 +16,33 @@ map_link: https://goo.gl/maps/VwfZ9V42eHhoF7yS7
 
 <div class="about">
 Hello Bengaluru
-
+<br><br>
 We're excited to bring to you a new series of events in Bengaluru focused on data streaming and adjacent technologies. Our objective is to share knowledge and provide a platform for thought leadership around:
-
-Event Streaming Technologies (Apache Kafka and more)
-Event Driven Architecture
-Stream Processing
-Streaming Databases
-Real-time analytics
-Data Mesh
+<br><br>
+Event Streaming Technologies (Apache Kafka and more)<br>
+Event Driven Architecture<br>
+Stream Processing<br>
+Streaming Databases<br>
+Real-time analytics<br>
+Data Mesh<br>
 ..and more.
-
+<br><br>
 We're hosting our next in-person event on August 26. Join us for exciting discussions in the streaming world with opportunities to network with peers and leaders in the industry.
-
 </div>
 
 ### Schedule
 
-TBA
+| Name                                                                      | Speaker                                  | Start Time | End Time | Presentation                                                                                                                         | Recording                                                  |
+| ------------------------------------------------------------------------- | ---------------------------------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| Welcome and registration                                                  |                                          | 9:30 AM    | 9:45 AM |                                                                                                                                      |                                                            |
+| Keynote                    | CRED     | 9:45 AM   | 10:00 AM |                             |  |
+| Apache Pulsar - The anatomy of Pub & Sub               | Shivji Kumar Jha, Nutanix            | 10:00 AM   | 10:30 AM |  |  |
+| Designing a Data Mesh with Kafka | Rahul Gulati, Saxo Bank                 | 10:35 AM   | 11:05 AM |  |  |
+| Empowering Interactive Queries on Lakehouse: Integrating Apache Hudi with Presto & Trino | Sagar Sumit, Onehouse                    | 11:10 AM   | 11:40 AM |  |  |
+| Networking break                                                          |                                          | 11:40 AM   | 12:00 PM |                                                                                                                                      |                                                            |
+| TBA       | CRED              | 12:00 PM   | 12:30 PM |                  |  |
+| TBA      | Platformatory | 12:45 PM   | 1:00 PM  |  |  |
+| Lunch and Networking                                                      |                                          | 01:15 PM   | 2:30 PM |                                                                                                                                      |                                                            |
 
 ### Talks
 

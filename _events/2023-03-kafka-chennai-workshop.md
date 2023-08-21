@@ -33,8 +33,8 @@ Hands-on workshop on Apache Kafka and Confluent in partnership with Chennai Micr
 
 ### Speakers
 
-- {:.speaker-name} Lakshmi Narasimhan - Principal Engineer at Platformatory who always loves data engineering at its core. Currently working on different projects around ETL, and event streaming mainly around Apache Kafka - https://www.linkedin.com/in/lakshminp/
-- {:.speaker-name} Ashwin Venkatesan - Senior Consultant at Platformatory working mainly on Apache Kafka and Kubernetes. Ashwin has done multiple projects building scalable data pipelines incorporating Apache Kafka in production scenarios. He also dabbles in Data science and Machine learning in his free time. His hobbies include traveling, cooking, and following Manchester United : )
+- {:.speaker-name} Lakshmi Narasimhan <br> <span class="speaker-description"> Principal Engineer at Platformatory who always loves data engineering at its core. Currently working on different projects around ETL, and event streaming mainly around Apache Kafka - https://www.linkedin.com/in/lakshminp/</span>
+- {:.speaker-name} Ashwin Venkatesan <br> <span class="speaker-description"> Senior Consultant at Platformatory working mainly on Apache Kafka and Kubernetes. Ashwin has done multiple projects building scalable data pipelines incorporating Apache Kafka in production scenarios. He also dabbles in Data science and Machine learning in his free time. His hobbies include traveling, cooking, and following Manchester United : )</span>
 
 ### Agenda
 

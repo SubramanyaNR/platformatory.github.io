@@ -16,21 +16,20 @@ map_link: https://goo.gl/maps/khjwkvjpQzmmFoKY8
 
 <div class="about">
 Hello Bengaluru
-
+<br>
 We're excited to bring to you a new series of events in Bengaluru focused on data streaming and adjacent technologies. Our objective is to share knowledge and provide a platform for thought leadership around:
-
-Event Streaming Technologies (Apache Kafka and more)
-Event Driven Architecture
-Stream Processing
-Streaming Databases
-Real-time analytics
-Data Mesh
-..and more.
-
+<br>
+Event Streaming Technologies (Apache Kafka and more)<br>
+Event Driven Architecture<br>
+Stream Processing<br>
+Streaming Databases<br>
+Real-time analytics<br>
+Data Mesh<br>
+..and more.<br>
+<br><br>
 We're kicking off our first in-person meetup in Bengaluru on June 17 at the Microsoft Reactor. Join us for exciting discussions in the streaming world with opportunities to network with peers and leaders in the industry.
-
-Thank you to our sponsors, Startree, for sponsoring F&B for the meetup.
-
+<br><br>
+Thank you to our sponsors, <a href="https://startree.ai" target="_blank">Startree</a>, for sponsoring F&B for the meetup.
 </div>
 
 ### Schedule
@@ -44,7 +43,7 @@ Thank you to our sponsors, Startree, for sponsoring F&B for the meetup.
 | Networking break                                                          |                                          | 11:35 AM   | 12:00 PM |                                                                                                                                      |                                                            |
 | Beyond Kafka: Exploring NATS for Modern Event-Driven Architectures        | Robin Biju Thomas, Iotify                | 12:00 PM   | 12:30 PM | [Slides](https://drive.google.com/file/d/1m0YPQOOOQT76lBrOpHD3Bwl0BRvivRqi/view?usp=drive_link){:target="\_blank"}                   | [YouTube](https://youtu.be/2gPoEt52CIE){:target="\_blank"} |
 | Real-time analytics and insights with Apache Kafka and Apache Pinot       | Suraj Pillai and Saurabh Dubey, Startree | 12:30 PM   | 1:00 PM  | [Slides](https://docs.google.com/presentation/d/1D-W09zuYNOKbA3fo-RNG-P1Jp7QmgroG4XXxLBgTdIU/edit?usp=drive_link){:target="\_blank"} | [YouTube](https://youtu.be/rPgrF2gs7dk){:target="\_blank"} |
-| Lunch and Networking                                                      |                                          | 01:00 PM   | 2:030 PM |                                                                                                                                      |                                                            |
+| Lunch and Networking                                                      |                                          | 01:00 PM   | 2:30 PM |                                                                                                                                      |                                                            |
 
 ### Talks
 

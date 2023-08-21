@@ -16,9 +16,8 @@ map_link: https://goo.gl/maps/N3Wc5XVWVyn1LhkW9
 
 <div class="about">
 Kong is the cloud connectivity company for API & Microservices management. We are building a community of API & Microservices enthusiasts in Bengaluru through meetups.
-
+<br><br>
 Join us in our upcoming in-person meetup in Bengaluru in collaboration with Platformatory Labs, as we discuss API Gateways, Service Meshes, and all things Cloud Native. We have some exciting talks lined up and as usual, we'll have some great networking opportunities, trivia, swag and a tasty lunch!
-
 </div>
 
 ### Schedule
@@ -59,6 +58,6 @@ About the talk: - Rate limiter at scale
 
 ### Speakers
 
-- {:.speaker-name} Naman Bajpayi - Software engineer @ palo alto networks
-- {:.speaker-name} Pavan Keshavamurthy - CTO & Co-founder @ Platformatory.io
-- {:.speaker-name} Manjunatha Shetty H - SDE 3 at Razorpay, working with API Gateway Team https://www.linkedin.com/in/shettyh
+- {:.speaker-name} Naman Bajpayi <br> <span class="speaker-description"> Software engineer @ palo alto networks</span>
+- {:.speaker-name} Pavan Keshavamurthy <br> <span class="speaker-description"> CTO & Co-founder @ Platformatory.io</span>
+- {:.speaker-name} Manjunatha Shetty H <br> <span class="speaker-description"> SDE 3 at Razorpay, working with API Gateway Team https://www.linkedin.com/in/shettyh</span>

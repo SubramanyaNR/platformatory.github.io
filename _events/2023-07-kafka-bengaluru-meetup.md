@@ -55,6 +55,7 @@ About the talk: This talk will explore a pattern that can enable almost any REST
 
 ### Speakers
 
-- {:.speaker-name} Mohammad Ghazanfar, Senior Software Engineer II, Confluent
-- {:.speaker-name} Avinash Upadhyaya, Platform Engineer at Platformatory and Ashwin Venkatesan, Platform Engineer at Platformatory
-- {:.speaker-name} Pavan Keshavamurthy - CTO & Co-founder @ Platformatory.io
+- {:.speaker-name} Mohammad Ghazanfar <br> <span class="speaker-description"> Senior Software Engineer II, Confluent</span>
+- {:.speaker-name} Avinash Upadhyaya <br> <span class="speaker-description"> Platform Engineer at Platformatory</span>
+- {:.speaker-name} Ashwin Venkatesan <br> <span class="speaker-description"> Platform Engineer at Platformatory</span>
+- {:.speaker-name} Pavan Keshavamurthy <br> <span class="speaker-description"> CTO & Co-founder @ Platformatory.io</span>

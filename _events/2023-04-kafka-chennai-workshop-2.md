@@ -26,54 +26,48 @@ Part-2 of the hands-on workshop on Apache Kafka and Confluent in partnership wit
 
 ### Prerequisites:
 
-1. Intellij Idea community edition
-2. Gradle
-3. Java 11
-4. WSL (https://learn.microsoft.com/en-us/windows/wsl/install)
-5. Apache Kafka binaries
-6. Confluent cloud account (Free credits available)
+- Intellij Idea community edition
+- Gradle
+- Java 11
+- WSL (https://learn.microsoft.com/en-us/windows/wsl/install)
+- Apache Kafka binaries
+- Confluent cloud account (Free credits available)
 
 ### Speakers:
 
-- {:.speaker-name} Lakshmi Narasimhan - Principal Engineer at Platformatory who always loves data engineering at its core. Currently working on different projects around ETL, and event streaming mainly around Apache Kafka - https://www.linkedin.com/in/lakshminp/
-- {:.speaker-name} Ashwin Venkatesan - Senior Consultant at Platformatory working mainly on Apache Kafka and Kubernetes. Ashwin has done multiple projects building scalable data pipelines incorporating Apache Kafka in production scenarios. He also dabbles in Data science and Machine learning in his free time. His hobbies include traveling, cooking, and following Manchester United : )
+- {:.speaker-name} Lakshmi Narasimhan <br> <span class="speaker-description"> Principal Engineer at Platformatory who always loves data engineering at its core. Currently working on different projects around ETL, and event streaming mainly around Apache Kafka - https://www.linkedin.com/in/lakshminp/</span>
+- {:.speaker-name} Ashwin Venkatesan <br> <span class="speaker-description"> Senior Consultant at Platformatory working mainly on Apache Kafka and Kubernetes. Ashwin has done multiple projects building scalable data pipelines incorporating Apache Kafka in production scenarios. He also dabbles in Data science and Machine learning in his free time. His hobbies include traveling, cooking, and following Manchester United : )</span>
 
 ### Agenda: Kafka workshop - 2
 
-1. Brief recap of what was covered in the previous workshop:
+- Brief recap of what was covered in the previous workshop:
+    - Basics of Apache Kafka: the difference between Kafka and database/message queue/ service bus etc.
+    - Components of Kafka cluster
+    - Topics, partitions
+    - Producers, consumers
 
-- Basics of Apache Kafka: the difference between Kafka and database/message queue/ service bus etc.
-- Components of Kafka cluster
-- Topics, partitions
-- Producers, consumers
+- Messages schema
+    - Serialization, different serialization formats
+    - Schema registry
+    - Example producer and consumer with schema
 
-2. Messages schema
+- Kafka Connect
+    - Overview of Kafka connect => source and sink connectors, architecture.
+    - Examples of source and sink connectors, introduction to connector hub.
+    - Examples of Microsoft-specific source and sink connectors.
 
-- Serialization, different serialization formats
-- Schema registry
-- Example producer and consumer with schema
+- Kafka streams
+    - Introduction to Kafka streams
+    - Example of a Kafka streams application followed by demo
 
-3. Kafka Connect
+- KSQL
+    - KSQL intro and architecture
+    - Difference between Kafka streams and KSQL
+    - Example application + demo
 
-- Overview of Kafka connect => source and sink connectors, architecture.
-- Examples of source and sink connectors, introduction to connector hub.
-- Examples of Microsoft-specific source and sink connectors.
+- Kafka security
+    - Different authentication options
+    - Authorization
+    - Quotas
 
-4. Kafka streams
-
-- Introduction to Kafka streams
-- Example of a Kafka streams application followed by demo
-
-5. KSQL
-
-- KSQL intro and architecture
-- Difference between Kafka streams and KSQL
-- Example application + demo
-
-6. Kafka security
-
-- Different authentication options
-- Authorization
-- Quotas
-
-7. Questions / Networking (Lunch will be provided)
+- Questions / Networking (Lunch will be provided)

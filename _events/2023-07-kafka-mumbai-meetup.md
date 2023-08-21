@@ -71,7 +71,7 @@ About the talk: Look at various tooling around running Apache Kafka on Kubernete
 
 ### Speakers
 
-- {:.speaker-name} Pavan Keshavamurthy, CTO & Co-founder @ Platformatory.io
-- {:.speaker-name} Sanjay Awatramani, Staff Software Engineer I, Confluent
-- {:.speaker-name} Nikesh Shetty, Lead Consultant at Thoughtworks
-- {:.speaker-name} Avinash Upadhyaya, Platform Engineer at Platformatory
+- {:.speaker-name} Pavan Keshavamurthy <br> <span class="speaker-description"> CTO & Co-founder @ Platformatory.io</span>
+- {:.speaker-name} Sanjay Awatramani <br> <span class="speaker-description"> Staff Software Engineer I, Confluent</span>
+- {:.speaker-name} Nikesh Shetty <br> <span class="speaker-description"> Lead Consultant at Thoughtworks</span>
+- {:.speaker-name} Avinash Upadhyaya <br> <span class="speaker-description"> Platform Engineer at Platformatory</span>

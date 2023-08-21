@@ -40,7 +40,9 @@ collections:
     output: true
   publications:
     output: true
-          
+
+# For events        
+future: true 
 
 sass:
   indentWidth: 4
