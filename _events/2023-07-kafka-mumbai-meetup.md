@@ -20,15 +20,14 @@ Hello everyone! Join us for an IN PERSON Apache Kafka® meetup on July 14th from
 
 ### Schedule
 
-| Name | Speaker | Start Time | End Time | Presentation | Recording |
-| --- | --- | --- | --- | --- | --- |
-| Welcome |  | 3:00 PM | 3:30 PM |  |  |
-| A real-time data foundation for modern banking | Pavan Keshavamurthy, Platformatory | 3:30 PM | 4:05 PM |  |  |
-| Apache Kafka with Schema Registry and Avro | Sanjay Awatramani, Confluent | 4:10 PM | 4:40 PM |  |  |
-| Push Architecture-Revolutionising app's lengthy load time to zero | Nikesh Shetty, Thoughtworks | 4:45 PM | 5:15 PM |  |  |
-| Lessons in running Kafka on Kubernetes: approaches, pitfalls and stories from the trenches | Avinash Upadhyaya, Platformatory | 5:15 PM | 5:45 PM |  |  |
-| Snacks and Networking |  | 5:45 PM | 6:15 PM |  |  |
-
+| Name                                                                                       | Speaker                            | Start Time | End Time | Presentation | Recording |
+| ------------------------------------------------------------------------------------------ | ---------------------------------- | ---------- | -------- | ------------ | --------- |
+| Welcome                                                                                    |                                    | 3:00 PM    | 3:30 PM  |              |           |
+| A real-time data foundation for modern banking                                             | Pavan Keshavamurthy, Platformatory | 3:30 PM    | 4:05 PM  |              |           |
+| Apache Kafka with Schema Registry and Avro                                                 | Sanjay Awatramani, Confluent       | 4:10 PM    | 4:40 PM  |              |           |
+| Push Architecture-Revolutionising app's lengthy load time to zero                          | Nikesh Shetty, Thoughtworks        | 4:45 PM    | 5:15 PM  |              |           |
+| Lessons in running Kafka on Kubernetes: approaches, pitfalls and stories from the trenches | Avinash Upadhyaya, Platformatory   | 5:15 PM    | 5:45 PM  |              |           |
+| Snacks and Networking                                                                      |                                    | 5:45 PM    | 6:15 PM  |              |           |
 
 ### Talks
 
@@ -64,17 +63,15 @@ Lessons learned and future considerations: 1. Too many and too less- how do you 
 
 Exploring additional use cases and possibilities with Kafka and push architecture.
 
-
 **Lessons in running Kafka on Kubernetes: approaches, pitfalls, and stories from the trenches**
 
 _Speaker:_ Avinash Upadhyaya, Platform Engineer at Platformatory
 
 About the talk: Look at various tooling around running Apache Kafka on Kubernetes and cover best practices for running a distributed system such as Kafka on Kubernetes.
 
-
 ### Speakers
 
-- Pavan Keshavamurthy, CTO & Co-founder @ Platformatory.io
-- Sanjay Awatramani, Staff Software Engineer I, Confluent
-- Nikesh Shetty, Lead Consultant at Thoughtworks
-- Avinash Upadhyaya, Platform Engineer at Platformatory
+- {:.speaker-name} Pavan Keshavamurthy, CTO & Co-founder @ Platformatory.io
+- {:.speaker-name} Sanjay Awatramani, Staff Software Engineer I, Confluent
+- {:.speaker-name} Nikesh Shetty, Lead Consultant at Thoughtworks
+- {:.speaker-name} Avinash Upadhyaya, Platform Engineer at Platformatory

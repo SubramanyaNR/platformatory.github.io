@@ -18,20 +18,20 @@ map_link: https://goo.gl/maps/N3Wc5XVWVyn1LhkW9
 Kong is the cloud connectivity company for API & Microservices management. We are building a community of API & Microservices enthusiasts in Bengaluru through meetups.
 
 Join us in our upcoming in-person meetup in Bengaluru in collaboration with Platformatory Labs, as we discuss API Gateways, Service Meshes, and all things Cloud Native. We have some exciting talks lined up and as usual, we'll have some great networking opportunities, trivia, swag and a tasty lunch!
+
 </div>
 
 ### Schedule
 
-| Name | Speaker | Start Time | End Time | Presentation | Recording |
-| --- | --- | --- | --- | --- | --- |
-| Welcome and registration |  | 10:00 AM | 10:45 AM |  |  |
-| Full-fledged Kong's Setup : The Other Way | Naman Bajpayi, Palo Alto Networks | 10:45 AM | 11:15 AM |  |  |
-| Web Assembly, Kong and building proxy plugins for the future | Pavan Keshavamurthy, Platformatory | 11:20 AM | 11:50 AM |  |  |
-| Kong Trivia |  | 11:50 AM | 12:10 PM |  |  |
-| Abuse protection and ensuring QoS for the clients | Manjunatha Shetty H, Razorpay | 12:15 PM | 12:45 PM |  |  |
-| Closing note |  | 12:45 PM | 1:00 PM |  |  |
-| Lunch |  | 1:00 PM | 2:00 PM |  |  |
-
+| Name                                                         | Speaker                            | Start Time | End Time | Presentation | Recording |
+| ------------------------------------------------------------ | ---------------------------------- | ---------- | -------- | ------------ | --------- |
+| Welcome and registration                                     |                                    | 10:00 AM   | 10:45 AM |              |           |
+| Full-fledged Kong's Setup : The Other Way                    | Naman Bajpayi, Palo Alto Networks  | 10:45 AM   | 11:15 AM |              |           |
+| Web Assembly, Kong and building proxy plugins for the future | Pavan Keshavamurthy, Platformatory | 11:20 AM   | 11:50 AM |              |           |
+| Kong Trivia                                                  |                                    | 11:50 AM   | 12:10 PM |              |           |
+| Abuse protection and ensuring QoS for the clients            | Manjunatha Shetty H, Razorpay      | 12:15 PM   | 12:45 PM |              |           |
+| Closing note                                                 |                                    | 12:45 PM   | 1:00 PM  |              |           |
+| Lunch                                                        |                                    | 1:00 PM    | 2:00 PM  |              |           |
 
 ### Talks
 
@@ -53,12 +53,12 @@ About the talk: This session explores bleeding edge features from Kong incubator
 _Speaker:_ Manjunatha Shetty H, SDE 3 at Razorpay, working with API Gateway Team
 
 About the talk: - Rate limiter at scale
+
 - How we built automated system to react to abuse traffic
 - How we isolate malicious user/ requests to maintain QoS
 
-
 ### Speakers
 
-- Naman Bajpayi - Software engineer @ palo alto networks
-- Pavan Keshavamurthy - CTO & Co-founder @ Platformatory.io
-- Manjunatha Shetty H - SDE 3 at Razorpay, working with API Gateway Team https://www.linkedin.com/in/shettyh
+- {:.speaker-name} Naman Bajpayi - Software engineer @ palo alto networks
+- {:.speaker-name} Pavan Keshavamurthy - CTO & Co-founder @ Platformatory.io
+- {:.speaker-name} Manjunatha Shetty H - SDE 3 at Razorpay, working with API Gateway Team https://www.linkedin.com/in/shettyh

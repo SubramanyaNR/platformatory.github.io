@@ -20,9 +20,9 @@ Hands-on workshop on Apache Kafka and Confluent in partnership with Chennai Micr
 
 ### Schedule
 
-| Name | Speaker | Start Time | End Time | Presentation | Recording |
-| --- | --- | --- | --- | --- | --- |
-| Apache Kafka Workshop | Lakshmi Narasimhan, Ashwin Venkatesan | 10:00 AM | 2:00 PM |  |  |
+| Name                  | Speaker                               | Start Time | End Time | Presentation | Recording |
+| --------------------- | ------------------------------------- | ---------- | -------- | ------------ | --------- |
+| Apache Kafka Workshop | Lakshmi Narasimhan, Ashwin Venkatesan | 10:00 AM   | 2:00 PM  |              |           |
 
 ### Prerequisites
 
@@ -33,8 +33,8 @@ Hands-on workshop on Apache Kafka and Confluent in partnership with Chennai Micr
 
 ### Speakers
 
-- Lakshmi Narasimhan - Principal Engineer at Platformatory who always loves data engineering at its core. Currently working on different projects around ETL, and event streaming mainly around Apache Kafka - https://www.linkedin.com/in/lakshminp/
-- Ashwin Venkatesan - Senior Consultant at Platformatory working mainly on Apache Kafka and Kubernetes. Ashwin has done multiple projects building scalable data pipelines incorporating Apache Kafka in production scenarios. He also dabbles in Data science and Machine learning in his free time. His hobbies include traveling, cooking, and following Manchester United : )
+- {:.speaker-name} Lakshmi Narasimhan - Principal Engineer at Platformatory who always loves data engineering at its core. Currently working on different projects around ETL, and event streaming mainly around Apache Kafka - https://www.linkedin.com/in/lakshminp/
+- {:.speaker-name} Ashwin Venkatesan - Senior Consultant at Platformatory working mainly on Apache Kafka and Kubernetes. Ashwin has done multiple projects building scalable data pipelines incorporating Apache Kafka in production scenarios. He also dabbles in Data science and Machine learning in his free time. His hobbies include traveling, cooking, and following Manchester United : )
 
 ### Agenda
 
@@ -47,8 +47,6 @@ Hands-on workshop on Apache Kafka and Confluent in partnership with Chennai Micr
 - Introduction to Kafka streams.
 - Azure data connectors to Apache Kafka.
 - Hands-on:
-    - Producer and consumer.
-    - KSQL.
-    - Kafka components: brokers, zookeeper, schema registry.
-
-
+  - Producer and consumer.
+  - KSQL.
+  - Kafka components: brokers, zookeeper, schema registry.

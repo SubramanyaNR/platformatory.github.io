@@ -27,12 +27,12 @@ Data Mesh
 ..and more.
 
 We're hosting our next in-person event on August 26. Join us for exciting discussions in the streaming world with opportunities to network with peers and leaders in the industry.
+
 </div>
 
 ### Schedule
 
 TBA
-
 
 ### Talks
 
@@ -64,10 +64,9 @@ _About the talk:_ Designing a Data Mesh with Kafka “Data Mesh objective is to 
 
 • Enabling analytics, data warehousing and production support
 
-
 ### Speakers
 
-- Pavan Keshavamurthy - CTO & Co-founder @ Platformatory.io
-- Shivji Kumar Jha - Shivji has been working on databases and streaming systems for over a decade. Shivji currently heads the distributed data org at Nutanix. Previously, he has worked on organisations big and small, as a software engineer at MySQL Replication, 5th engineer at a startup working on a host of things including microservices, observability infrastructure, cloud and databases, designed and implemented the help chat bot and metadata catalogue for all data at Swiggy. Very active in the Open Source software community and a regular speaker at Open Source conferences, Shivji has contributed over 25 patches to MySQL and Apache Pulsar open source code bases.
-- Sagar Sumit - I am an Apache Committer and a Software Engineer at Onehouse, a fully-managed lakehouse platform. My primary contributions are to Apache Hudi's core transactional engine and its integration with different query engines such as Presto and Trino.
-- Rahul Gulati - Principal Data Platforms Engineer, Working on building Data Mesh(Operational & Analytical Planes) using Confluent Kafka
+- {:.speaker-name} Pavan Keshavamurthy <br> <span class="speaker-description">CTO & Co-founder @ Platformatory.io</span>
+- {:.speaker-name} Shivji Kumar Jha <br> <span class="speaker-description">Shivji has been working on databases and streaming systems for over a decade. Shivji currently heads the distributed data org at Nutanix. Previously, he has worked on organisations big and small, as a software engineer at MySQL Replication, 5th engineer at a startup working on a host of things including microservices, observability infrastructure, cloud and databases, designed and implemented the help chat bot and metadata catalogue for all data at Swiggy. Very active in the Open Source software community and a regular speaker at Open Source conferences, Shivji has contributed over 25 patches to MySQL and Apache Pulsar open source code bases.</span>
+- {:.speaker-name} Sagar Sumit <br> <span class="speaker-description">I am an Apache Committer and a Software Engineer at Onehouse, a fully-managed lakehouse platform. My primary contributions are to Apache Hudi's core transactional engine and its integration with different query engines such as Presto and Trino.</span>
+- {:.speaker-name} Rahul Gulati <br> <span class="speaker-description">Principal Data Platforms Engineer, Working on building Data Mesh(Operational & Analytical Planes) using Confluent Kafka</span>

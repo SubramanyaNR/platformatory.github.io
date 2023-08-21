@@ -20,15 +20,14 @@ Hello everyone! Join us for an IN PERSON Apache Kafka® meetup on July 29th from
 
 ### Schedule
 
-| Name | Speaker | Start Time | End Time | Presentation | Recording |
-| --- | --- | --- | --- | --- | --- |
-| Welcome and Introduction |  | 10:30 AM | 10:40 AM |  |  |
-| Powering Observability using Kafka, Druid & Grafana | Mohammad Ghazanfar, Confluent | 10:40 AM | 11:20 AM |  |  |
-| A Primer Towards Tunning Kafka on Top of Kubernetes | Avinash Upadhyaya and Ashwin Venkatesan, Platformatory | 11:20 AM | 12:00 PM |  |  |
-| Quick break |  | 12:00 PM | 12:20 PM |  |  |
-| Eventing Aside: A pattern towards unobstrusive eventing with RESTFul services | Pavan Keshavamurthy, Platformatory | 12:20 PM | 1:00 PM |  |  |
-| Lunch |  | 1:00 PM | 2:00 PM |  |  |
-
+| Name                                                                          | Speaker                                                | Start Time | End Time | Presentation | Recording |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- | -------- | ------------ | --------- |
+| Welcome and Introduction                                                      |                                                        | 10:30 AM   | 10:40 AM |              |           |
+| Powering Observability using Kafka, Druid & Grafana                           | Mohammad Ghazanfar, Confluent                          | 10:40 AM   | 11:20 AM |              |           |
+| A Primer Towards Tunning Kafka on Top of Kubernetes                           | Avinash Upadhyaya and Ashwin Venkatesan, Platformatory | 11:20 AM   | 12:00 PM |              |           |
+| Quick break                                                                   |                                                        | 12:00 PM   | 12:20 PM |              |           |
+| Eventing Aside: A pattern towards unobstrusive eventing with RESTFul services | Pavan Keshavamurthy, Platformatory                     | 12:20 PM   | 1:00 PM  |              |           |
+| Lunch                                                                         |                                                        | 1:00 PM    | 2:00 PM  |              |           |
 
 ### Talks
 
@@ -54,9 +53,8 @@ _Speaker:_ Pavan Keshavamurthy, CTO & Co-founder @ Platformatory.io
 
 About the talk: This talk will explore a pattern that can enable almost any RESTful service (including legacy) into an event-source, as long as it is fronted by an API gateway. We will also talk through implications for event-sourcing, CQRS and general transaction processing. We will conclude with a demo that leverages Kong - a popular open source API gateway and Kafka
 
-
 ### Speakers
 
-- Mohammad Ghazanfar, Senior Software Engineer II, Confluent
-- Avinash Upadhyaya, Platform Engineer at Platformatory and Ashwin Venkatesan, Platform Engineer at Platformatory
-- Pavan Keshavamurthy - CTO & Co-founder @ Platformatory.io
+- {:.speaker-name} Mohammad Ghazanfar, Senior Software Engineer II, Confluent
+- {:.speaker-name} Avinash Upadhyaya, Platform Engineer at Platformatory and Ashwin Venkatesan, Platform Engineer at Platformatory
+- {:.speaker-name} Pavan Keshavamurthy - CTO & Co-founder @ Platformatory.io

@@ -20,19 +20,19 @@ Kong API Gateway is a powerful open-source tool that helps you manage and secure
 Join us in our first in-person meetup in Mumbai, as we discuss API Gateways, Service Meshes, and all things Cloud Native. We have some exciting talks lined up, along with some great networking opportunities, trivia, swag👕!
 
 In this hands-on workshop, we'll introduce you to the world of API Gateways and their significance in a microservice based architecture. We'll look at the Kong API Gateway and what makes it an excellent solution for managing and securing APIs at scale. The workshop will include setting up a Kong Gateway locally using Docker and explore the Kong ecosystem through its plugins.
+
 </div>
 
 ### Schedule
 
-| Name | Speaker | Start Time | End Time | Presentation | Recording |
-| --- | --- | --- | --- | --- | --- |
-| Welcome and Networking |  | 10:00 AM | 10:30 AM |  |  |
-| Introduction to Kong and API Gateways | Pavan Keshavamurthy | 10:30 AM | 11:00 AM | [Slideshare](https://www.slideshare.net/AvinashUpadhyaya3/kong-api-gatewaypdf){:target="_blank"} |  |
-| Hands-on workshop on getting started with Kong | Avinash Upadhyaya | 11:00 AM | 1:00 PM |  |  |
-| Lunch & Networking |  | 1:00 PM | 2:00 PM |  |  |
+| Name                                           | Speaker             | Start Time | End Time | Presentation                                                                                      | Recording |
+| ---------------------------------------------- | ------------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------- | --------- |
+| Welcome and Networking                         |                     | 10:00 AM   | 10:30 AM |                                                                                                   |           |
+| Introduction to Kong and API Gateways          | Pavan Keshavamurthy | 10:30 AM   | 11:00 AM | [Slideshare](https://www.slideshare.net/AvinashUpadhyaya3/kong-api-gatewaypdf){:target="\_blank"} |           |
+| Hands-on workshop on getting started with Kong | Avinash Upadhyaya   | 11:00 AM   | 1:00 PM  |                                                                                                   |           |
+| Lunch & Networking                             |                     | 1:00 PM    | 2:00 PM  |                                                                                                   |           |
 
 ### Prerequisites
-
 
 - Laptop for hands-on
 - Docker and docker-compose (Strictly not necessary)
@@ -40,8 +40,8 @@ In this hands-on workshop, we'll introduce you to the world of API Gateways and 
 
 ### Speakers
 
-- Pavan Keshavamurthy - CTO at Platformatory
-- Avinash Upadhyaya - Platform Engineer at Platformatory
+- {:.speaker-name} Pavan Keshavamurthy - CTO at Platformatory
+- {:.speaker-name} Avinash Upadhyaya - Platform Engineer at Platformatory
 
 ### Agenda
 
@@ -51,12 +51,12 @@ In this hands-on workshop, we'll introduce you to the world of API Gateways and 
 - Kong in the API Management world
 - Kong terminologies
 - Hands-on
-    - Setup kong with docker compose
-    - Create services, routes and consumers
-    - Plugins
-    - Key Auth
-    - Rate limting
-    - Request/Response Transformer
-    - Upstreams for load balancing
+  - Setup kong with docker compose
+  - Create services, routes and consumers
+  - Plugins
+  - Key Auth
+  - Rate limting
+  - Request/Response Transformer
+  - Upstreams for load balancing
 - Kong Deployment models
 - Summary and Conclusion
